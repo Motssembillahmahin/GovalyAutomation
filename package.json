@@ -1,0 +1,21 @@
+{
+  "name": "govalyautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Motssembillahmahin/GovalyAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Motssembillahmahin/GovalyAutomation/issues"
+  },
+  "homepage": "https://github.com/Motssembillahmahin/GovalyAutomation#readme"
+}

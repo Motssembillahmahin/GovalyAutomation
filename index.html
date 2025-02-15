@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shopify Orders</title>
+</head>
+<body>
+    <h2>Shopify Orders</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Order ID</th>
+                <th>Address</th>
+                <th>Phone</th>
+                <th>Update</th>
+            </tr>
+        </thead>
+        <tbody id="ordersTable"></tbody>
+    </table>
+
+    <script>
+        async function loadOrders() {
+            const response = await fetch("http://localhost:8000/orders");
+            const data = await response.json();
+
+            let ordersHtml = "";
+            data.orders.forEach(order => {
+                ordersHtml += `<tr>
+                    <td>${order.id}</td>
+                    <td><input type="text" id="address_${order.id}" value="${order.address || ''}"></td>
+                    <td><input type="text" id="phone_${order.id}" value="${order.phone || ''}"></td>
+                    <td><button onclick="updateOrder(${order.id})">Update</button></td>
+                </tr>`;
+            });
+
+            document.getElementById("ordersTable").innerHTML = ordersHtml;
+        }
+
+        async function updateOrder(orderId) {
+            const newAddress = document.getElementById(`address_${orderId}`).value;
+            const newPhone = document.getElementById(`phone_${orderId}`).value;
+
+            await fetch(`http://localhost:8000/update-order/${orderId}`, {
+                method: "PUT",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ address: newAddress, phone: newPhone })
+            });
+
+            alert(`Order ${orderId} updated successfully!`);
+        }
+
+        window.onload = loadOrders;
+    </script>
+</body>
+</html>

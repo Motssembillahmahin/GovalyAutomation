@@ -1,0 +1,1046 @@
+Order#,"Store Order ID","Order Date (Asia/Dhaka)","Payment Status","Payment Mode","Fulfillment Status","Product Name","Product Price","Quantity Ordered","Sub Total",Barcode,SKU,"Variant Title","Order Note","Product Weight(g)","Buyer's First Name","Buyer's Last Name","Buyer's Full Name","Buyer's Address1","Buyer's Address2","Buyer's City","Buyer's State/Province","Buyer's Zipcode","Buyer's Country","Buyer's Email Address","Seller Shipping Amount","Seller Tax Amount","Seller Total Amount","Shipping Paid By Buyer","Tax Paid By Buyer","Amount Paid By Buyer","Buyer's Shipping Address","Buyer's Billing Address","Buyer's Contact Number","Note Attributes","Shipping Label Link","Product Properties","Shipping Method","Discount on Order","Discount Bear By","Tracking Id","Tracking Url","Shipping Discount","Shipping Discount Bear By","Line Item Status","Connector Name","Refrence Order Id","Refrence Order Number","Shipping First Name","Shipping Last Name","Shipping Address","Shipping City","Shipping State/Province","Shipping Zipcode","Shipping Country","Shipping Contact Number","Billing First Name","Billing Last Name","Billing Address","Billing City","Billing State/Province","Billing Zipcode","Billing Country","Billing Contact Number"
+11519022,GO#1233,2025-01-15T12:36:16,Refunded,"Cash on Delivery (COD)",Refunded,"Thai Comfortable 3 Pieces Combo Cotton Panty For Women - XL / Multicolor",135.00,2,270.00,,,"XL / Multicolor",,0.0000,Tamanna,Hera,"Tamanna Hera","Ka 12/1 Rasulbag",,Dhaka,,1212,Bangladesh,heratamanna72@gmail.com,0.000,0.00,216.00,100.00,0.00,370.00,"Tamanna Hera
+Ka 12/1 Rasulbag 
+01687484324
+Dhaka
+1212
+Bangladesh","Tamanna Hera
+Ka 12/1 Rasulbag 
+01687484324
+Dhaka
+1212
+Bangladesh",01687484324,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Tamanna,Hera,"Ka 12/1 Rasulbag Ka 12/1 Rasulbag",Dhaka,,1212,Bangladesh,01687484324,Tamanna,Hera,"Ka 12/1 Rasulbag Ka 12/1 Rasulbag",Dhaka,,1212,Bangladesh,01687484324
+11519034,GO#1234,2025-01-15T12:40:29,Refunded,"Cash on Delivery (COD)",Refunded,"Thai Premium 4 Pieces Combo Stylish Panty - L / Multicolor",340.00,1,340.00,,,"L / Multicolor",,0.0000,Robin,Robin,"Robin Robin","Bashundhara city market, Karwan bazar, Dhaka, Bangladesh",,Dhaka,,,Bangladesh,,0.000,0.00,272.00,51.52,0.00,391.52,"Robin Robin
+Bashundhara city market, Karwan bazar, Dhaka, Bangladesh 
+01631605885
+Dhaka
+Bangladesh","Robin Robin
+Bashundhara city market, Karwan bazar, Dhaka, Bangladesh 
+01631605885
+Dhaka
+Bangladesh",01631605885,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Robin,Robin,"Bashundhara city market, Karwan bazar, Dhaka, Bangladesh Bashundhara city market, Karwan bazar, Dhaka, Bangladesh",Dhaka,,,Bangladesh,01631605885,Robin,Robin,"Bashundhara city market, Karwan bazar, Dhaka, Bangladesh Bashundhara city market, Karwan bazar, Dhaka, Bangladesh",Dhaka,,,Bangladesh,01631605885
+11519034,GO#1234,2025-01-15T12:40:29,Refunded,"Cash on Delivery (COD)",Refunded,"Transparent 4 Pieces Combo Net Bra For Women - 36 / Multicolor",320.00,1,320.00,,,"36 / Multicolor",,0.0000,Robin,Robin,"Robin Robin","Bashundhara city market, Karwan bazar, Dhaka, Bangladesh",,Dhaka,,,Bangladesh,,0.000,0.00,256.00,48.49,0.00,368.49,"Robin Robin
+Bashundhara city market, Karwan bazar, Dhaka, Bangladesh 
+01631605885
+Dhaka
+Bangladesh","Robin Robin
+Bashundhara city market, Karwan bazar, Dhaka, Bangladesh 
+01631605885
+Dhaka
+Bangladesh",01631605885,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Robin,Robin,"Bashundhara city market, Karwan bazar, Dhaka, Bangladesh Bashundhara city market, Karwan bazar, Dhaka, Bangladesh",Dhaka,,,Bangladesh,01631605885,Robin,Robin,"Bashundhara city market, Karwan bazar, Dhaka, Bangladesh Bashundhara city market, Karwan bazar, Dhaka, Bangladesh",Dhaka,,,Bangladesh,01631605885
+11567742,GO#1611,2025-01-25T02:59:02,Refunded,"Cash on Delivery (COD)",Refunded,"Transparent 4 Pieces Combo Net Bra For Women - 40 / Multicolor",320.00,1,320.00,,,"40 / Multicolor",,0.0000,SAHAB,UDDIN,"SAHAB UDDIN Samsu","JURI MOULVIBAZAR",,Juri,,3251,Bangladesh,sahabusamsu1992@gmail.com,0.000,0.00,256.00,120.00,0.00,440.00,"SAHAB UDDIN Samsu
+JURI MOULVIBAZAR 
+01728988804
+Juri
+3251
+Bangladesh","SAHAB UDDIN Samsu
+JURI MOULVIBAZAR 
+01728988804
+Juri
+3251
+Bangladesh",01728988804,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ","SAHAB UDDIN",Samsu,"JURI MOULVIBAZAR JURI MOULVIBAZAR",Juri,,3251,Bangladesh,01728988804,"SAHAB UDDIN",Samsu,"JURI MOULVIBAZAR JURI MOULVIBAZAR",Juri,,3251,Bangladesh,01728988804
+11583349,GO#1758,2025-01-27T23:06:57,Refunded,"Cash on Delivery (COD)",Refunded,"Transparent 4 Pieces Combo Net Bra For Women - 32 / Multicolor",320.00,1,320.00,,,"32 / Multicolor",,0.0000,Hasanurhira,Hasanurhira,"Hasanurhira Hasanurhira",Ullapara,,Ullapara,,,Bangladesh,hasanurhirahasanurhira@gmail.com,0.000,0.00,256.00,120.00,0.00,440.00,"Hasanurhira Hasanurhira
+Ullapara 
+01714256528
+Ullapara
+Bangladesh","Hasanurhira Hasanurhira
+Ullapara 
+01714256528
+Ullapara
+Bangladesh",01714256528,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Hasanurhira,Hasanurhira,"Ullapara Ullapara",Ullapara,,,Bangladesh,01714256528,Hasanurhira,Hasanurhira,"Ullapara Ullapara",Ullapara,,,Bangladesh,01714256528
+11588492,GO#1828,2025-01-29T00:17:35,pending,"Cash on Delivery (COD)",unfulfilled,"Chinese Posture Correction Front Cover Push-up Bra For Women - M / Multicolor",399.00,1,399.00,,,"M / Multicolor",,0.0000,Md,Rashidul,"Md Rashidul islam Rashed","Dangha taltola",,Narsingdi,,,Bangladesh,,0.000,0.00,319.20,120.00,0.00,519.00,"Md Rashidul islam Rashed
+Dangha taltola 
+01787280110
+Narsingdi
+Bangladesh","Md Rashidul islam Rashed
+Dangha taltola 
+01787280110
+Narsingdi
+Bangladesh",01787280110,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Md Rashidul islam",Rashed,"Dangha taltola Dangha taltola",Narsingdi,,,Bangladesh,01787280110,"Md Rashidul islam",Rashed,"Dangha taltola Dangha taltola",Narsingdi,,,Bangladesh,01787280110
+11590734,GO#1857,2025-01-29T12:45:25,Refunded,"Cash on Delivery (COD)",Refunded,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",320.00,1,320.00,,,"38 / Multicolor",,0.0000,Mazed,Miah,"Mazed Miah","madar bazar.osmaninogor.sylhet",,Sylhet,,,Bangladesh,mazedmiah7@gmail.com,0.000,0.00,256.00,120.00,0.00,440.00,"Mazed Miah
+madar bazar.osmaninogor.sylhet 
+01714703545
+Sylhet
+Bangladesh","Mazed Miah
+madar bazar.osmaninogor.sylhet 
+01714703545
+Sylhet
+Bangladesh",01714703545,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Mazed,Miah,"madar bazar.osmaninogor.sylhet madar bazar.osmaninogor.sylhet",Sylhet,,,Bangladesh,01714703545,Mazed,Miah,"madar bazar.osmaninogor.sylhet madar bazar.osmaninogor.sylhet",Sylhet,,,Bangladesh,01714703545
+11595261,GO#1920,2025-01-30T07:13:23,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 36 / Multicolor",320.00,1,320.00,,,"36 / Multicolor",,0.0000,Shahab,Uddin,"Shahab Uddin Shahab Uddin","Mejor Sinha Chottar,Shamlapur Teknaf,Coxbazar",,Chittagong,,4750,Bangladesh,shahabuddinu52@gmail.com,0.000,0.00,256.00,120.00,0.00,440.00,"Shahab Uddin Shahab Uddin
+Mejor Sinha Chottar,Shamlapur Teknaf,Coxbazar 
+01810082619
+Chittagong
+4750
+Bangladesh","Shahab Uddin Shahab Uddin
+Mejor Sinha Chottar,Shamlapur Teknaf,Coxbazar 
+01810082619
+Chittagong
+4750
+Bangladesh",01810082619,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Shahab Uddin","Shahab Uddin","Mejor Sinha Chottar,Shamlapur Teknaf,Coxbazar Mejor Sinha Chottar,Shamlapur Teknaf,Coxbazar",Chittagong,,4750,Bangladesh,01810082619,"Shahab Uddin","Shahab Uddin","Mejor Sinha Chottar,Shamlapur Teknaf,Coxbazar Mejor Sinha Chottar,Shamlapur Teknaf,Coxbazar",Chittagong,,4750,Bangladesh,01810082619
+11597008,GO#1964,2025-01-30T16:43:39,Refunded,"Cash on Delivery (COD)",Refunded,"Thai Premium 4 Pieces Combo Stylish Panty - XL / Multicolor",340.00,1,340.00,,,"XL / Multicolor",,0.0000,Md.,Zaahirul,"Md. Zaahirul Alam Raihan","এফটিসি, দাগনভূঁইয়া, ফেনী",,Feni,,,Bangladesh,,0.000,0.00,272.00,120.00,0.00,460.00,"Md. Zaahirul Alam Raihan
+এফটিসি, দাগনভূঁইয়া, ফেনী 
+01768254174
+Feni
+Bangladesh","Md. Zaahirul Alam Raihan
+এফটিসি, দাগনভূঁইয়া, ফেনী 
+01768254174
+Feni
+Bangladesh",01768254174,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ","Md. Zaahirul Alam",Raihan,"এফটিসি, দাগনভূঁইয়া, ফেনী এফটিসি, দাগনভূঁইয়া, ফেনী",Feni,,,Bangladesh,01768254174,"Md. Zaahirul Alam",Raihan,"এফটিসি, দাগনভূঁইয়া, ফেনী এফটিসি, দাগনভূঁইয়া, ফেনী",Feni,,,Bangladesh,01768254174
+11597585,GO#1979,2025-01-30T19:14:17,Refunded,"Cash on Delivery (COD)",Refunded,"Thai Comfortable 3 Pieces Combo Cotton Panty For Women - L / Multicolor",135.00,1,135.00,,,"L / Multicolor",,0.0000,Jonaira,Rashid,"Jonaira Rashid","2201 Dr. Jonaira Rashid Bangladesh Fisheries Research Institute (bfri) Freshwater Station, Mymensingh",,2,,2201,Bangladesh,,0.000,0.00,108.00,120.00,0.00,255.00,"Jonaira Rashid
+2201 Dr. Jonaira Rashid Bangladesh Fisheries Research Institute (bfri) Freshwater Station, Mymensingh 
+01710585656
+2
+2201
+Bangladesh","Jonaira Rashid
+2201 Dr. Jonaira Rashid Bangladesh Fisheries Research Institute (bfri) Freshwater Station, Mymensingh 
+01710585656
+2
+2201
+Bangladesh",01710585656,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Jonaira,Rashid,"2201 Dr. Jonaira Rashid Bangladesh Fisheries Research Institute (bfri) Freshwater Station, Mymensingh 2201 Dr. Jonaira Rashid Bangladesh Fisheries Research Institute (bfri) Freshwater Station, Mymensingh",2,,2201,Bangladesh,01710585656,Jonaira,Rashid,"2201 Dr. Jonaira Rashid Bangladesh Fisheries Research Institute (bfri) Freshwater Station, Mymensingh 2201 Dr. Jonaira Rashid Bangladesh Fisheries Research Institute (bfri) Freshwater Station, Mymensingh",2,,2201,Bangladesh,01710585656
+11598417,GO#2001,2025-01-30T22:30:26,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 40 / Multicolor",320.00,1,320.00,,,"40 / Multicolor",,0.0000,Rashed,Zaman,"Rashed Zaman","House # 11, Road # 18/1, Block-C (Extension),Bansree, Dhaka",,Dhaka,,,Bangladesh,zaman01031983@gmail.com,0.000,0.00,256.00,100.00,0.00,420.00,"Rashed Zaman
+House # 11, Road # 18/1, Block-C (Extension),Bansree, Dhaka 
+01716924635
+Dhaka
+Bangladesh","Rashed Zaman
+House # 11, Road # 18/1, Block-C (Extension),Bansree, Dhaka 
+01716924635
+Dhaka
+Bangladesh",01716924635,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Rashed,Zaman,"House # 11, Road # 18/1, Block-C (Extension),Bansree, Dhaka House # 11, Road # 18/1, Block-C (Extension),Bansree, Dhaka",Dhaka,,,Bangladesh,01716924635,Rashed,Zaman,"House # 11, Road # 18/1, Block-C (Extension),Bansree, Dhaka House # 11, Road # 18/1, Block-C (Extension),Bansree, Dhaka",Dhaka,,,Bangladesh,01716924635
+11602102,GO#2066,2025-01-31T17:14:34,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - S / Multicolor",340.00,1,340.00,,,"S / Multicolor",,0.0000,joshim,joshim,"joshim joshim","Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh",,Sylhet,,,Bangladesh,,0.000,0.00,272.00,61.82,0.00,401.82,"joshim joshim
+Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh 
+01712205351
+Sylhet
+Bangladesh","joshim joshim
+Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh 
+01712205351
+Sylhet
+Bangladesh",01712205351,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",joshim,joshim,"Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh",Sylhet,,,Bangladesh,01712205351,joshim,joshim,"Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh",Sylhet,,,Bangladesh,01712205351
+11602102,GO#2066,2025-01-31T17:14:34,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",320.00,1,320.00,,,"38 / Multicolor",,0.0000,joshim,joshim,"joshim joshim","Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh",,Sylhet,,,Bangladesh,,0.000,0.00,256.00,58.18,0.00,378.18,"joshim joshim
+Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh 
+01712205351
+Sylhet
+Bangladesh","joshim joshim
+Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh 
+01712205351
+Sylhet
+Bangladesh",01712205351,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",joshim,joshim,"Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh",Sylhet,,,Bangladesh,01712205351,joshim,joshim,"Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh Jaflong Thana Gayingghat District Sylhet Jaflong Bangladesh",Sylhet,,,Bangladesh,01712205351
+11602684,GO#2083,2025-01-31T19:46:31,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - XL / Multicolor",340.00,1,340.00,,,"XL / Multicolor",,0.0000,Fazle,Karim,"Fazle Karim","Noor traders, Kansat, Shibganj, Chapainawabganj",,Kansat,,6341,Bangladesh,fazlakarim@gmail.com,0.000,0.00,272.00,44.11,0.00,384.11,"Fazle Karim
+Noor traders, Kansat, Shibganj, Chapainawabganj 
+01740841324
+Kansat
+6341
+Bangladesh","Fazle Karim
+Noor traders, Kansat, Shibganj, Chapainawabganj 
+01740841324
+Kansat
+6341
+Bangladesh",01740841324,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Fazle,Karim,"Noor traders, Kansat, Shibganj, Chapainawabganj Noor traders, Kansat, Shibganj, Chapainawabganj",Kansat,,6341,Bangladesh,01740841324,Fazle,Karim,"Noor traders, Kansat, Shibganj, Chapainawabganj Noor traders, Kansat, Shibganj, Chapainawabganj",Kansat,,6341,Bangladesh,01740841324
+11602684,GO#2083,2025-01-31T19:46:31,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Comfortable 3 Pieces Combo Cotton Panty For Women - XXL / Multicolor",135.00,1,135.00,,,"XXL / Multicolor",,0.0000,Fazle,Karim,"Fazle Karim","Noor traders, Kansat, Shibganj, Chapainawabganj",,Kansat,,6341,Bangladesh,fazlakarim@gmail.com,0.000,0.00,108.00,17.51,0.00,152.51,"Fazle Karim
+Noor traders, Kansat, Shibganj, Chapainawabganj 
+01740841324
+Kansat
+6341
+Bangladesh","Fazle Karim
+Noor traders, Kansat, Shibganj, Chapainawabganj 
+01740841324
+Kansat
+6341
+Bangladesh",01740841324,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Fazle,Karim,"Noor traders, Kansat, Shibganj, Chapainawabganj Noor traders, Kansat, Shibganj, Chapainawabganj",Kansat,,6341,Bangladesh,01740841324,Fazle,Karim,"Noor traders, Kansat, Shibganj, Chapainawabganj Noor traders, Kansat, Shibganj, Chapainawabganj",Kansat,,6341,Bangladesh,01740841324
+11602684,GO#2083,2025-01-31T19:46:31,pending,"Cash on Delivery (COD)",unfulfilled,"Printed Comfortable 3 Pieces Combo Cotton Panty For Women - XXL / Multicolor",130.00,1,130.00,,,"XXL / Multicolor",,0.0000,Fazle,Karim,"Fazle Karim","Noor traders, Kansat, Shibganj, Chapainawabganj",,Kansat,,6341,Bangladesh,fazlakarim@gmail.com,0.000,0.00,104.00,16.87,0.00,146.87,"Fazle Karim
+Noor traders, Kansat, Shibganj, Chapainawabganj 
+01740841324
+Kansat
+6341
+Bangladesh","Fazle Karim
+Noor traders, Kansat, Shibganj, Chapainawabganj 
+01740841324
+Kansat
+6341
+Bangladesh",01740841324,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Fazle,Karim,"Noor traders, Kansat, Shibganj, Chapainawabganj Noor traders, Kansat, Shibganj, Chapainawabganj",Kansat,,6341,Bangladesh,01740841324,Fazle,Karim,"Noor traders, Kansat, Shibganj, Chapainawabganj Noor traders, Kansat, Shibganj, Chapainawabganj",Kansat,,6341,Bangladesh,01740841324
+11602684,GO#2083,2025-01-31T19:46:31,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",320.00,1,320.00,,,"38 / Multicolor",,0.0000,Fazle,Karim,"Fazle Karim","Noor traders, Kansat, Shibganj, Chapainawabganj",,Kansat,,6341,Bangladesh,fazlakarim@gmail.com,0.000,0.00,256.00,41.51,0.00,361.51,"Fazle Karim
+Noor traders, Kansat, Shibganj, Chapainawabganj 
+01740841324
+Kansat
+6341
+Bangladesh","Fazle Karim
+Noor traders, Kansat, Shibganj, Chapainawabganj 
+01740841324
+Kansat
+6341
+Bangladesh",01740841324,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Fazle,Karim,"Noor traders, Kansat, Shibganj, Chapainawabganj Noor traders, Kansat, Shibganj, Chapainawabganj",Kansat,,6341,Bangladesh,01740841324,Fazle,Karim,"Noor traders, Kansat, Shibganj, Chapainawabganj Noor traders, Kansat, Shibganj, Chapainawabganj",Kansat,,6341,Bangladesh,01740841324
+11602872,GO#2087,2025-01-31T20:30:46,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",320.00,1,320.00,,,"38 / Multicolor",,0.0000,Nasir,nannu,"Nasir nannu","CEPZ, Pacific casual, EPZ, Chittagong.",,Chittagong,,,Bangladesh,nu_nannu@hotmail.com,0.000,0.00,256.00,120.00,0.00,440.00,"Nasir nannu
+CEPZ, Pacific casual, EPZ, Chittagong. 
+01717493933
+Chittagong
+Bangladesh","Nasir nannu
+CEPZ, Pacific casual, EPZ, Chittagong. 
+01717493933
+Chittagong
+Bangladesh",01717493933,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Nasir,nannu,"CEPZ, Pacific casual, EPZ, Chittagong. CEPZ, Pacific casual, EPZ, Chittagong.",Chittagong,,,Bangladesh,01717493933,Nasir,nannu,"CEPZ, Pacific casual, EPZ, Chittagong. CEPZ, Pacific casual, EPZ, Chittagong.",Chittagong,,,Bangladesh,01717493933
+11606549,GO#2134,2025-02-01T13:18:25,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 36 / Multicolor",320.00,1,320.00,,,"36 / Multicolor",,0.0000,Nazir,Ahmed,"Nazir Ahmed","81 khaje Dewan 1st lane lalbagh Dhaka-1211 Dhaka Bangladesh",,Dhaka,,,Bangladesh,,0.000,0.00,256.00,100.00,0.00,420.00,"Nazir Ahmed
+81 khaje Dewan 1st lane lalbagh Dhaka-1211 Dhaka Bangladesh 
+01715793179
+Dhaka
+Bangladesh","Nazir Ahmed
+81 khaje Dewan 1st lane lalbagh Dhaka-1211 Dhaka Bangladesh 
+01715793179
+Dhaka
+Bangladesh",01715793179,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Nazir,Ahmed,"81 khaje Dewan 1st lane lalbagh Dhaka-1211 Dhaka Bangladesh 81 khaje Dewan 1st lane lalbagh Dhaka-1211 Dhaka Bangladesh",Dhaka,,,Bangladesh,01715793179,Nazir,Ahmed,"81 khaje Dewan 1st lane lalbagh Dhaka-1211 Dhaka Bangladesh 81 khaje Dewan 1st lane lalbagh Dhaka-1211 Dhaka Bangladesh",Dhaka,,,Bangladesh,01715793179
+11606986,GO#2139,2025-02-01T15:27:27,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 40 / Multicolor",320.00,1,320.00,,,"40 / Multicolor",,0.0000,Sohel,Talukder,"Sohel Talukder","Dhali bari kacha bazar Apollo Hospital link road",,Dhaka,,,Bangladesh,,0.000,0.00,256.00,100.00,0.00,420.00,"Sohel Talukder
+Dhali bari kacha bazar Apollo Hospital link road 
+01533601955
+Dhaka
+Bangladesh","Sohel Talukder
+Dhali bari kacha bazar Apollo Hospital link road 
+01533601955
+Dhaka
+Bangladesh",01533601955,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Sohel,Talukder,"Dhali bari kacha bazar Apollo Hospital link road Dhali bari kacha bazar Apollo Hospital link road",Dhaka,,,Bangladesh,01533601955,Sohel,Talukder,"Dhali bari kacha bazar Apollo Hospital link road Dhali bari kacha bazar Apollo Hospital link road",Dhaka,,,Bangladesh,01533601955
+11608838,GO#2167,2025-02-01T22:03:13,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",320.00,1,320.00,,,"38 / Multicolor",,0.0000,Janifar,Jani,"Janifar Jani","Simon Road, Cox’s Bazar",,"Cox’s Bazar",,7400,Bangladesh,irariha33@gmail.com,0.000,0.00,256.00,120.00,0.00,440.00,"Janifar Jani
+Simon Road, Cox’s Bazar 
+01875433255
+Cox’s Bazar
+7400
+Bangladesh","Janifar Jani
+Simon Road, Cox’s Bazar 
+01875433255
+Cox’s Bazar
+7400
+Bangladesh",01875433255,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Janifar,Jani,"Simon Road, Cox’s Bazar Simon Road, Cox’s Bazar","Cox’s Bazar",,7400,Bangladesh,01875433255,Janifar,Jani,"Simon Road, Cox’s Bazar Simon Road, Cox’s Bazar","Cox’s Bazar",,7400,Bangladesh,01875433255
+11609072,GO#2174,2025-02-01T22:40:41,Refunded,"Cash on Delivery (COD)",Refunded,"Indian Soft Cotton 4 Pieces Combo Bra for Women - 40 / Multicolor",690.00,1,690.00,,,"40 / Multicolor",,0.0000,Ashraf,Ahmad,"Ashraf Ahmad","Tilpara beanibazar",,Sylhet,,3172,Bangladesh,,0.000,0.00,552.00,120.00,0.00,810.00,"Ashraf Ahmad
+Tilpara beanibazar 
+01819360257
+Sylhet
+3172
+Bangladesh","Ashraf Ahmad
+Tilpara beanibazar 
+01819360257
+Sylhet
+3172
+Bangladesh",01819360257,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Ashraf,Ahmad,"Tilpara beanibazar Tilpara beanibazar",Sylhet,,3172,Bangladesh,01819360257,Ashraf,Ahmad,"Tilpara beanibazar Tilpara beanibazar",Sylhet,,3172,Bangladesh,01819360257
+11612659,GO#2221,2025-02-02T10:31:09,pending,"Cash on Delivery (COD)",unfulfilled,"Indian Soft Cotton 4 Pieces Combo Bra for Women - 38 / Multicolor",690.00,1,690.00,,,"38 / Multicolor",,0.0000,Ashraf,Ahmad,"Ashraf Ahmad","Tilpara beanibazar Sylhet 3172 Bangladesh",,Sylhet,,,Bangladesh,,0.000,0.00,552.00,120.00,0.00,810.00,"Ashraf Ahmad
+Tilpara beanibazar Sylhet 3172 Bangladesh 
+01819360257
+Sylhet
+Bangladesh","Ashraf Ahmad
+Tilpara beanibazar Sylhet 3172 Bangladesh 
+01819360257
+Sylhet
+Bangladesh",01819360257,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Ashraf,Ahmad,"Tilpara beanibazar Sylhet 3172 Bangladesh Tilpara beanibazar Sylhet 3172 Bangladesh",Sylhet,,,Bangladesh,01819360257,Ashraf,Ahmad,"Tilpara beanibazar Sylhet 3172 Bangladesh Tilpara beanibazar Sylhet 3172 Bangladesh",Sylhet,,,Bangladesh,01819360257
+11612711,GO#2225,2025-02-02T10:59:06,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - L / Multicolor",340.00,1,340.00,,,"L / Multicolor",,0.0000,MAHFUJ,Akondo,"MAHFUJ Akondo","Dubaliapara, Zamirdia, Habirbari, Bhaluka, Mymensingh",,Mymensingh,,2240,Bangladesh,,0.000,0.00,272.00,120.00,0.00,460.00,"MAHFUJ Akondo
+Dubaliapara, Zamirdia, Habirbari, Bhaluka, Mymensingh 
+01721646920
+Mymensingh
+2240
+Bangladesh","MAHFUJ Akondo
+Dubaliapara, Zamirdia, Habirbari, Bhaluka, Mymensingh 
+01721646920
+Mymensingh
+2240
+Bangladesh",01721646920,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",MAHFUJ,Akondo,"Dubaliapara, Zamirdia, Habirbari, Bhaluka, Mymensingh Dubaliapara, Zamirdia, Habirbari, Bhaluka, Mymensingh",Mymensingh,,2240,Bangladesh,01721646920,MAHFUJ,Akondo,"Dubaliapara, Zamirdia, Habirbari, Bhaluka, Mymensingh Dubaliapara, Zamirdia, Habirbari, Bhaluka, Mymensingh",Mymensingh,,2240,Bangladesh,01721646920
+11612806,GO#2229,2025-02-02T11:40:30,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - M / Multicolor",340.00,1,340.00,,,"M / Multicolor",,0.0000,Mostafizur,Rahman,"Mostafizur Rahman","39/a Minister Apartment 3 Baily Road Dhaka",,"Roman Dhaka",,,Bangladesh,mostafizurrahman82312@gmail.com,0.000,0.00,272.00,100.00,0.00,440.00,"Mostafizur Rahman
+39/a Minister Apartment 3 Baily Road Dhaka 
+01624844235
+Roman Dhaka
+Bangladesh","Mostafizur Rahman
+39/a Minister Apartment 3 Baily Road Dhaka 
+01624844235
+Roman Dhaka
+Bangladesh",01624844235,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Mostafizur,Rahman,"39/a Minister Apartment 3 Baily Road Dhaka 39/a Minister Apartment 3 Baily Road Dhaka","Roman Dhaka",,,Bangladesh,01624844235,Mostafizur,Rahman,"39/a Minister Apartment 3 Baily Road Dhaka 39/a Minister Apartment 3 Baily Road Dhaka","Roman Dhaka",,,Bangladesh,01624844235
+11614608,GO#2278,2025-02-02T20:15:22,Refunded,"Cash on Delivery (COD)",Refunded,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 38 / Multicolor",580.00,1,580.00,,,"38 / Multicolor",,0.0000,Ayon,Ahamed,"Ayon Ahamed Fahad","জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট",,Debigonj,,,Bangladesh,,0.000,0.00,464.00,120.00,0.00,700.00,"Ayon Ahamed Fahad
+জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট 
+01985598469
+Debigonj
+Bangladesh","Ayon Ahamed Fahad
+জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট 
+01985598469
+Debigonj
+Bangladesh",01985598469,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ","Ayon Ahamed",Fahad,"জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট",Debigonj,,,Bangladesh,01985598469,"Ayon Ahamed",Fahad,"জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট",Debigonj,,,Bangladesh,01985598469
+11614844,GO#2285,2025-02-02T21:14:32,Refunded,"Cash on Delivery (COD)",Refunded,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 36 / Multicolor",580.00,2,1160.00,,,"36 / Multicolor",,0.0000,Ayon,Ahamed,"Ayon Ahamed Fahad","জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট Debigonj",,Debigonj,,,Bangladesh,,0.000,0.00,928.00,120.00,0.00,1280.00,"Ayon Ahamed Fahad
+জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট Debigonj 
++8801985598469
+Debigonj
+Bangladesh","Ayon Ahamed Fahad
+জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট Debigonj 
++8801985598469
+Debigonj
+Bangladesh",+8801985598469,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ","Ayon Ahamed",Fahad,"জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট Debigonj জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট Debigonj",Debigonj,,,Bangladesh,+8801985598469,"Ayon Ahamed",Fahad,"জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট Debigonj জেলা:পঞ্চগড়, থানা :দেবীগঞ্জ, ঠিকানা:কালুরহাট Debigonj",Debigonj,,,Bangladesh,+8801985598469
+11614904,GO#2286,2025-02-02T21:23:53,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",355.00,1,355.00,,,"38 / Multicolor",,0.0000,Md.,Abdul,"Md. Abdul Halim"," Uttara","House 31, road 3/A, Block E, Sector 12,",Dhaka,,1230,Bangladesh,halim.abdul@siemens.com,0.000,0.00,284.00,100.00,0.00,455.00,"Md. Abdul Halim
+ Uttara House 31, road 3/A, Block E, Sector 12,
++8801713068833
+Dhaka
+1230
+Bangladesh","Md. Abdul Halim
+5 Pallabi Rd 
++8801713068833
+Dhaka
+1230
+Bangladesh",+8801713068833,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Md. Abdul",Halim," Uttara  Uttara",Dhaka,,1230,Bangladesh,+8801713068833,"Md. Abdul",Halim,"5 Pallabi Rd 5 Pallabi Rd",Dhaka,,1230,Bangladesh,+8801713068833
+11615158,GO#2290,2025-02-02T22:20:41,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 36 / Multicolor",355.00,1,355.00,,,"36 / Multicolor",,0.0000,সবুজ,হোসেন,"সবুজ হোসেন","কারিগরি প্রশিক্ষন কেন্দ্র ,চাদপুর আর্মি ক্যাম্প, চাদপুর ।",,"কারিগরি প্রশিক্ষন  কেন্দ্র ,চাদপুর (আর্মি ক‍্যাম্প) চাদপুর।",,,Bangladesh,neloy2773@gmail.com,0.000,0.00,284.00,100.00,0.00,455.00,"সবুজ হোসেন
+কারিগরি প্রশিক্ষন কেন্দ্র ,চাদপুর আর্মি ক্যাম্প, চাদপুর । 
+01721408521
+কারিগরি প্রশিক্ষন  কেন্দ্র ,চাদপুর (আর্মি ক‍্যাম্প) চাদপুর।
+Bangladesh","সবুজ হোসেন
+কারিগরি প্রশিক্ষন কেন্দ্র ,চাদপুর আর্মি ক্যাম্প, চাদপুর । 
+01721408521
+কারিগরি প্রশিক্ষন  কেন্দ্র ,চাদপুর (আর্মি ক‍্যাম্প) চাদপুর।
+Bangladesh",01721408521,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",সবুজ,হোসেন,"কারিগরি প্রশিক্ষন কেন্দ্র ,চাদপুর আর্মি ক্যাম্প, চাদপুর । কারিগরি প্রশিক্ষন কেন্দ্র ,চাদপুর আর্মি ক্যাম্প, চাদপুর ।","কারিগরি প্রশিক্ষন  কেন্দ্র ,চাদপুর (আর্মি ক‍্যাম্প) চাদপুর।",,,Bangladesh,01721408521,সবুজ,হোসেন,"কারিগরি প্রশিক্ষন কেন্দ্র ,চাদপুর আর্মি ক্যাম্প, চাদপুর । কারিগরি প্রশিক্ষন কেন্দ্র ,চাদপুর আর্মি ক্যাম্প, চাদপুর ।","কারিগরি প্রশিক্ষন  কেন্দ্র ,চাদপুর (আর্মি ক‍্যাম্প) চাদপুর।",,,Bangladesh,01721408521
+11615941,GO#2301,2025-02-03T01:04:42,Refunded,"Cash on Delivery (COD)",Refunded,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",355.00,1,355.00,,,"38 / Multicolor",,0.0000,সারোয়ার,আলম,"সারোয়ার আলম","দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ।",,শায়েস্তাগঞ্জ,,,Bangladesh,mmuktadir01@gmail.com,0.000,0.00,284.00,100.00,0.00,455.00,"সারোয়ার আলম
+দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। 
+01919323347
+শায়েস্তাগঞ্জ
+Bangladesh","সারোয়ার আলম
+দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। 
+01919323347
+শায়েস্তাগঞ্জ
+Bangladesh",01919323347,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",সারোয়ার,আলম,"দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ।",শায়েস্তাগঞ্জ,,,Bangladesh,01919323347,সারোয়ার,আলম,"দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ।",শায়েস্তাগঞ্জ,,,Bangladesh,01919323347
+11615966,GO#2303,2025-02-03T01:08:27,Refunded,"Cash on Delivery (COD)",Refunded,"Indian 4 Pieces Combo Net Bra for Women - 38 / Multicolor",895.00,1,895.00,,,"38 / Multicolor",,0.0000,সারোয়ার,আলম,"সারোয়ার আলম","দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ।",,শায়েস্তাগঞ্জ,,3301,Bangladesh,mmuktadir01@gmail.com,0.000,0.00,716.00,86.96,0.00,981.96,"সারোয়ার আলম
+দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। 
+01919323347
+শায়েস্তাগঞ্জ
+3301
+Bangladesh","সারোয়ার আলম
+দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। 
+01919323347
+শায়েস্তাগঞ্জ
+3301
+Bangladesh",01919323347,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",সারোয়ার,আলম,"দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ।",শায়েস্তাগঞ্জ,,3301,Bangladesh,01919323347,সারোয়ার,আলম,"দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ।",শায়েস্তাগঞ্জ,,3301,Bangladesh,01919323347
+11615966,GO#2303,2025-02-03T01:08:27,Refunded,"Cash on Delivery (COD)",Refunded,"Thai Premium 4 Pieces Combo Stylish Panty - L / Multicolor",340.00,1,340.00,,,"L / Multicolor",,0.0000,সারোয়ার,আলম,"সারোয়ার আলম","দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ।",,শায়েস্তাগঞ্জ,,3301,Bangladesh,mmuktadir01@gmail.com,0.000,0.00,272.00,33.04,0.00,373.04,"সারোয়ার আলম
+দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। 
+01919323347
+শায়েস্তাগঞ্জ
+3301
+Bangladesh","সারোয়ার আলম
+দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। 
+01919323347
+শায়েস্তাগঞ্জ
+3301
+Bangladesh",01919323347,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",সারোয়ার,আলম,"দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ।",শায়েস্তাগঞ্জ,,3301,Bangladesh,01919323347,সারোয়ার,আলম,"দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ।",শায়েস্তাগঞ্জ,,3301,Bangladesh,01919323347
+11616931,GO#2308,2025-02-03T04:28:17,Refunded,"Cash on Delivery (COD)",Refunded,"Thai Cotton 4 Pieces Combo Bra For Woman - 32 / Multicolor",530.00,1,530.00,,,"32 / Multicolor",,0.0000,Shahan,uddin,"Shahan uddin","Jagannath Pur Sunamgonj Sylhet",,"Habib pur (possim para)",,,Bangladesh,shahan_uddin19@yahoo.com,0.000,0.00,424.00,120.00,0.00,650.00,"Shahan uddin
+Jagannath Pur Sunamgonj Sylhet 
+01739955656
+Habib pur (possim para)
+Bangladesh","Shahan uddin
+Jagannath Pur Sunamgonj Sylhet 
+01739955656
+Habib pur (possim para)
+Bangladesh",01739955656,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Shahan,uddin,"Jagannath Pur Sunamgonj Sylhet Jagannath Pur Sunamgonj Sylhet","Habib pur (possim para)",,,Bangladesh,01739955656,Shahan,uddin,"Jagannath Pur Sunamgonj Sylhet Jagannath Pur Sunamgonj Sylhet","Habib pur (possim para)",,,Bangladesh,01739955656
+11616942,GO#2309,2025-02-03T04:29:37,Refunded,"Cash on Delivery (COD)",Refunded,"Thai Premium 4 Pieces Combo Stylish Panty - L / Multicolor",340.00,1,340.00,,,"L / Multicolor",,0.0000,Shahan,uddin,"Shahan uddin","Jagannath Pur Sunamgonj Sylhet",,"Habib Pur (possim Para)",,,Bangladesh,shahan_uddin19@yahoo.com,0.000,0.00,272.00,120.00,0.00,460.00,"Shahan uddin
+Jagannath Pur Sunamgonj Sylhet 
+01739955656
+Habib Pur (possim Para)
+Bangladesh","Shahan uddin
+Jagannath Pur Sunamgonj Sylhet 
+01739955656
+Habib Pur (possim Para)
+Bangladesh",01739955656,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Shahan,uddin,"Jagannath Pur Sunamgonj Sylhet Jagannath Pur Sunamgonj Sylhet","Habib Pur (possim Para)",,,Bangladesh,01739955656,Shahan,uddin,"Jagannath Pur Sunamgonj Sylhet Jagannath Pur Sunamgonj Sylhet","Habib Pur (possim Para)",,,Bangladesh,01739955656
+11618067,GO#2316,2025-02-03T10:52:42,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - L / Multicolor",340.00,1,340.00,,,"L / Multicolor",,0.0000,সারোয়ার,আলম,"সারোয়ার আলম","দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh",,হবিগঞ্জ,,3301,Bangladesh,,0.000,0.00,272.00,25.66,0.00,365.66,"সারোয়ার আলম
+দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh 
++8801919323347
+হবিগঞ্জ
+3301
+Bangladesh","সারোয়ার আলম
+দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh 
++8801919323347
+হবিগঞ্জ
+3301
+Bangladesh",+8801919323347,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",সারোয়ার,আলম,"দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh",হবিগঞ্জ,,3301,Bangladesh,+8801919323347,সারোয়ার,আলম,"দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh",হবিগঞ্জ,,3301,Bangladesh,+8801919323347
+11618067,GO#2316,2025-02-03T10:52:42,pending,"Cash on Delivery (COD)",unfulfilled,"Indian 4 Pieces Combo Net Bra for Women - 38 / Multicolor",895.00,1,895.00,,,"38 / Multicolor",,0.0000,সারোয়ার,আলম,"সারোয়ার আলম","দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh",,হবিগঞ্জ,,3301,Bangladesh,,0.000,0.00,716.00,67.55,0.00,962.55,"সারোয়ার আলম
+দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh 
++8801919323347
+হবিগঞ্জ
+3301
+Bangladesh","সারোয়ার আলম
+দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh 
++8801919323347
+হবিগঞ্জ
+3301
+Bangladesh",+8801919323347,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",সারোয়ার,আলম,"দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh",হবিগঞ্জ,,3301,Bangladesh,+8801919323347,সারোয়ার,আলম,"দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh",হবিগঞ্জ,,3301,Bangladesh,+8801919323347
+11618067,GO#2316,2025-02-03T10:52:42,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",355.00,1,355.00,,,"38 / Multicolor",,0.0000,সারোয়ার,আলম,"সারোয়ার আলম","দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh",,হবিগঞ্জ,,3301,Bangladesh,,0.000,0.00,284.00,26.79,0.00,381.79,"সারোয়ার আলম
+দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh 
++8801919323347
+হবিগঞ্জ
+3301
+Bangladesh","সারোয়ার আলম
+দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh 
++8801919323347
+হবিগঞ্জ
+3301
+Bangladesh",+8801919323347,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",সারোয়ার,আলম,"দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh",হবিগঞ্জ,,3301,Bangladesh,+8801919323347,সারোয়ার,আলম,"দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh দাউদ নগর বাজার, সোনালী ব্যাংক ভবনের দোতালায়, শায়েস্তাগঞ্জ পৌরসভা, হবিগঞ্জ। শায়েস্তাগঞ্জ 3301 Bangladesh",হবিগঞ্জ,,3301,Bangladesh,+8801919323347
+11618137,GO#2317,2025-02-03T11:10:04,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - L / Multicolor",340.00,1,340.00,,,"L / Multicolor",,0.0000,Shahan,uddin,"Shahan uddin","Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh",,Sylhet,,,Bangladesh,,0.000,0.00,272.00,46.90,0.00,386.90,"Shahan uddin
+Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh 
++8801739955656
+Sylhet
+Bangladesh","Shahan uddin
+Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh 
++8801739955656
+Sylhet
+Bangladesh",+8801739955656,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Shahan,uddin,"Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh",Sylhet,,,Bangladesh,+8801739955656,Shahan,uddin,"Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh",Sylhet,,,Bangladesh,+8801739955656
+11618137,GO#2317,2025-02-03T11:10:04,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Cotton 4 Pieces Combo Bra For Woman - 32 / Multicolor",530.00,1,530.00,,,"32 / Multicolor",,0.0000,Shahan,uddin,"Shahan uddin","Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh",,Sylhet,,,Bangladesh,,0.000,0.00,424.00,73.10,0.00,603.10,"Shahan uddin
+Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh 
++8801739955656
+Sylhet
+Bangladesh","Shahan uddin
+Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh 
++8801739955656
+Sylhet
+Bangladesh",+8801739955656,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Shahan,uddin,"Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh",Sylhet,,,Bangladesh,+8801739955656,Shahan,uddin,"Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh Jagannath Pur Sunamgonj Sylhet Habib Pur (possim Para) Bangladesh",Sylhet,,,Bangladesh,+8801739955656
+11618320,GO#2322,2025-02-03T12:14:36,Refunded,"Cash on Delivery (COD)",Refunded,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",355.00,1,355.00,,,"38 / Multicolor",,0.0000,Mst,Suwa,"Mst Suwa","Chorhas mor",,kusthia,,,Bangladesh,,0.000,0.00,284.00,100.00,0.00,455.00,"Mst Suwa
+Chorhas mor 
+01303868168
+kusthia
+Bangladesh","Mst Suwa
+Chorhas mor 
+01303868168
+kusthia
+Bangladesh",01303868168,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Mst,Suwa,"Chorhas mor Chorhas mor",kusthia,,,Bangladesh,01303868168,Mst,Suwa,"Chorhas mor Chorhas mor",kusthia,,,Bangladesh,01303868168
+11619689,GO#2353,2025-02-03T18:37:22,pending,"Cash on Delivery (COD)",unfulfilled,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 40 / Multicolor",580.00,1,580.00,,,"40 / Multicolor",,0.0000,Suhad,azad,"Suhad azad","Kaminigonj bazar,juri,Moulvibazar",,Sylhet,,,Bangladesh,,0.000,0.00,464.00,120.00,0.00,700.00,"Suhad azad
+Kaminigonj bazar,juri,Moulvibazar 
+01710208787
+Sylhet
+Bangladesh","Suhad azad
+Kaminigonj bazar,juri,Moulvibazar 
+01710208787
+Sylhet
+Bangladesh",01710208787,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Suhad,azad,"Kaminigonj bazar,juri,Moulvibazar Kaminigonj bazar,juri,Moulvibazar",Sylhet,,,Bangladesh,01710208787,Suhad,azad,"Kaminigonj bazar,juri,Moulvibazar Kaminigonj bazar,juri,Moulvibazar",Sylhet,,,Bangladesh,01710208787
+11622997,GO#2408,2025-02-04T10:09:34,Refunded,"Cash on Delivery (COD)",Refunded,"Thai Premium 4 Pieces Combo Stylish Panty - M / Multicolor",340.00,1,340.00,,,"M / Multicolor",,0.0000,Shah,Alom,"Shah Alom","Brahmmanbazar, kulaura,Moulvibazar",,Moulvibazar,,,Bangladesh,trusttravels737@gmail.com,0.000,0.00,272.00,120.00,0.00,460.00,"Shah Alom
+Brahmmanbazar, kulaura,Moulvibazar 
+01719449561
+Moulvibazar
+Bangladesh","Shah Alom
+Brahmmanbazar, kulaura,Moulvibazar 
+01719449561
+Moulvibazar
+Bangladesh",01719449561,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Shah,Alom,"Brahmmanbazar, kulaura,Moulvibazar Brahmmanbazar, kulaura,Moulvibazar",Moulvibazar,,,Bangladesh,01719449561,Shah,Alom,"Brahmmanbazar, kulaura,Moulvibazar Brahmmanbazar, kulaura,Moulvibazar",Moulvibazar,,,Bangladesh,01719449561
+11623001,GO#2409,2025-02-04T10:11:57,Refunded,"Cash on Delivery (COD)",Refunded,"Thai Cotton 4 Pieces Combo Bra For Woman - 32 / Multicolor",530.00,1,530.00,,,"32 / Multicolor",,0.0000,Shah,Alom,"Shah Alom","Brahmmanbazar, kulaura,Moulvibazar",,Moulvibazar,,,Bangladesh,trusttravels737@gmail.com,0.000,0.00,424.00,100.00,0.00,630.00,"Shah Alom
+Brahmmanbazar, kulaura,Moulvibazar 
++8801719449561
+Moulvibazar
+Bangladesh","Shah Alom
+Brahmmanbazar, kulaura,Moulvibazar 
++8801719449561
+Moulvibazar
+Bangladesh",+8801719449561,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Shah,Alom,"Brahmmanbazar, kulaura,Moulvibazar Brahmmanbazar, kulaura,Moulvibazar",Moulvibazar,,,Bangladesh,+8801719449561,Shah,Alom,"Brahmmanbazar, kulaura,Moulvibazar Brahmmanbazar, kulaura,Moulvibazar",Moulvibazar,,,Bangladesh,+8801719449561
+11623304,GO#2428,2025-02-04T12:16:06,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Cotton 4 Pieces Combo Bra For Woman - 32 / Multicolor",530.00,1,530.00,,,"32 / Multicolor",,0.0000,Shah,Alom,"Shah Alom","Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh",,Moulvibazar,,,Bangladesh,,0.000,0.00,424.00,73.10,0.00,603.10,"Shah Alom
+Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh 
++8801719449561
+Moulvibazar
+Bangladesh","Shah Alom
+Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh 
++8801719449561
+Moulvibazar
+Bangladesh",+8801719449561,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Shah,Alom,"Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh",Moulvibazar,,,Bangladesh,+8801719449561,Shah,Alom,"Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh",Moulvibazar,,,Bangladesh,+8801719449561
+11623304,GO#2428,2025-02-04T12:16:06,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - M / Multicolor",340.00,1,340.00,,,"M / Multicolor",,0.0000,Shah,Alom,"Shah Alom","Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh",,Moulvibazar,,,Bangladesh,,0.000,0.00,272.00,46.90,0.00,386.90,"Shah Alom
+Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh 
++8801719449561
+Moulvibazar
+Bangladesh","Shah Alom
+Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh 
++8801719449561
+Moulvibazar
+Bangladesh",+8801719449561,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Shah,Alom,"Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh",Moulvibazar,,,Bangladesh,+8801719449561,Shah,Alom,"Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh Brahmmanbazar, kulaura,Moulvibazar Moulvibazar Bangladesh",Moulvibazar,,,Bangladesh,+8801719449561
+11623421,GO#2429,2025-02-04T12:57:24,pending,"Cash on Delivery (COD)",unfulfilled,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 32 / Multicolor",580.00,1,580.00,,,"32 / Multicolor",":: messenger order",0.0000,Hridoy,Afnat,"Hridoy Afnat Ayan","কুটি, কসবা, ব্রাহ্মণবাড়িয়া।",,Brahmanbaria,,,Bangladesh,,0.000,0.00,464.00,120.00,0.00,700.00,"Hridoy Afnat Ayan
+কুটি, কসবা, ব্রাহ্মণবাড়িয়া। 
+01751602191
+Brahmanbaria
+Bangladesh","Hridoy Afnat Ayan
+কুটি, কসবা, ব্রাহ্মণবাড়িয়া। 
+01751602191
+Brahmanbaria
+Bangladesh",01751602191,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Hridoy Afnat",Ayan,"কুটি, কসবা, ব্রাহ্মণবাড়িয়া। কুটি, কসবা, ব্রাহ্মণবাড়িয়া।",Brahmanbaria,,,Bangladesh,01751602191,"Hridoy Afnat",Ayan,"কুটি, কসবা, ব্রাহ্মণবাড়িয়া। কুটি, কসবা, ব্রাহ্মণবাড়িয়া।",Brahmanbaria,,,Bangladesh,01751602191
+11623552,GO#2435,2025-02-04T13:43:02,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - M / Multicolor",340.00,1,340.00,,,"M / Multicolor",,0.0000,Liton,Liton,"Liton Liton","Aukpara Majarget Ashulia Savar Dhaka Savar 1341 Bangladesh",,Savar,,1341,Bangladesh,,0.000,0.00,272.00,100.00,0.00,440.00,"Liton Liton
+Aukpara Majarget Ashulia Savar Dhaka Savar 1341 Bangladesh 
+01886353903
+Savar
+1341
+Bangladesh","Liton Liton
+Aukpara Majarget Ashulia Savar Dhaka Savar 1341 Bangladesh 
+01886353903
+Savar
+1341
+Bangladesh",01886353903,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Liton,Liton,"Aukpara Majarget Ashulia Savar Dhaka Savar 1341 Bangladesh Aukpara Majarget Ashulia Savar Dhaka Savar 1341 Bangladesh",Savar,,1341,Bangladesh,01886353903,Liton,Liton,"Aukpara Majarget Ashulia Savar Dhaka Savar 1341 Bangladesh Aukpara Majarget Ashulia Savar Dhaka Savar 1341 Bangladesh",Savar,,1341,Bangladesh,01886353903
+11624211,GO#2448,2025-02-04T16:59:07,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - XL / Multicolor",340.00,1,340.00,,,"XL / Multicolor",,0.0000,Hussain,Ahmed,"Hussain Ahmed","Beanibazar,Charkhai Bazar, Jalalnagar,Sylhet",,Sylhet,,,Bangladesh,husainel618@gmail.com,0.000,0.00,272.00,120.00,0.00,460.00,"Hussain Ahmed
+Beanibazar,Charkhai Bazar, Jalalnagar,Sylhet 
+01875586120
+Sylhet
+Bangladesh","Hussain Ahmed
+Beanibazar,Charkhai Bazar, Jalalnagar,Sylhet 
+01875586120
+Sylhet
+Bangladesh",01875586120,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Hussain,Ahmed,"Beanibazar,Charkhai Bazar, Jalalnagar,Sylhet Beanibazar,Charkhai Bazar, Jalalnagar,Sylhet",Sylhet,,,Bangladesh,01875586120,Hussain,Ahmed,"Beanibazar,Charkhai Bazar, Jalalnagar,Sylhet Beanibazar,Charkhai Bazar, Jalalnagar,Sylhet",Sylhet,,,Bangladesh,01875586120
+11626523,GO#2490,2025-02-05T01:29:54,pending,"Cash on Delivery (COD)",unfulfilled,"Printed Comfortable 3 Pieces Combo Cotton Panty For Women - XL / Multicolor",245.00,1,245.00,,,"XL / Multicolor",,0.0000,Sabrina,Abdullah,"Sabrina Abdullah","House-565/1, 1b, Sel Surovi, Shamim Sarani, West Shewrapara, Mirpur, Dhaka",,Dhaka,,1216,Bangladesh,onlyrojony@gmail.com,0.000,0.00,196.00,40.97,0.00,285.97,"Sabrina Abdullah
+House-565/1, 1b, Sel Surovi, Shamim Sarani, West Shewrapara, Mirpur, Dhaka 
+01716581453
+Dhaka
+1216
+Bangladesh","Sabrina Abdullah
+House-565/1, 1b, Sel Surovi, Shamim Sarani, West Shewrapara, Mirpur, Dhaka 
+01716581453
+Dhaka
+1216
+Bangladesh",01716581453,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Sabrina,Abdullah,"House-565/1, 1b, Sel Surovi, Shamim Sarani, West Shewrapara, Mirpur, Dhaka House-565/1, 1b, Sel Surovi, Shamim Sarani, West Shewrapara, Mirpur, Dhaka",Dhaka,,1216,Bangladesh,01716581453,Sabrina,Abdullah,"House-565/1, 1b, Sel Surovi, Shamim Sarani, West Shewrapara, Mirpur, Dhaka House-565/1, 1b, Sel Surovi, Shamim Sarani, West Shewrapara, Mirpur, Dhaka",Dhaka,,1216,Bangladesh,01716581453
+11626579,GO#2491,2025-02-05T01:40:24,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",355.00,1,355.00,,,"38 / Multicolor",,0.0000,Helal,Mahi,"Helal Mahi","ফটিকছড়ি নাজির হাট পৌরসভা বাবু নগর বোর্ড ইস্কুল",,চট্টগ্রাম,,,Bangladesh,helalmahi7@gmail.com,0.000,0.00,284.00,120.00,0.00,475.00,"Helal Mahi
+ফটিকছড়ি নাজির হাট পৌরসভা বাবু নগর বোর্ড ইস্কুল 
+01822305853
+চট্টগ্রাম
+Bangladesh","Helal Mahi
+ফটিকছড়ি নাজির হাট পৌরসভা বাবু নগর বোর্ড ইস্কুল 
+01822305853
+চট্টগ্রাম
+Bangladesh",01822305853,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Helal,Mahi,"ফটিকছড়ি নাজির হাট পৌরসভা বাবু নগর বোর্ড ইস্কুল ফটিকছড়ি নাজির হাট পৌরসভা বাবু নগর বোর্ড ইস্কুল",চট্টগ্রাম,,,Bangladesh,01822305853,Helal,Mahi,"ফটিকছড়ি নাজির হাট পৌরসভা বাবু নগর বোর্ড ইস্কুল ফটিকছড়ি নাজির হাট পৌরসভা বাবু নগর বোর্ড ইস্কুল",চট্টগ্রাম,,,Bangladesh,01822305853
+11628048,GO#2511,2025-02-05T10:36:32,pending,"Cash on Delivery (COD)",unfulfilled,"Printed Comfortable 3 Pieces Combo Cotton Panty For Women - XL / Multicolor",245.00,1,245.00,,,"XL / Multicolor",,0.0000,Saiful,Islam,"Saiful Islam","Ramgarh khagrachari",,Ramgarh,,,Bangladesh,,0.000,0.00,196.00,120.00,0.00,365.00,"Saiful Islam
+Ramgarh khagrachari 
+01837842640
+Ramgarh
+Bangladesh","Saiful Islam
+Ramgarh khagrachari 
+01837842640
+Ramgarh
+Bangladesh",01837842640,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Saiful,Islam,"Ramgarh khagrachari Ramgarh khagrachari",Ramgarh,,,Bangladesh,01837842640,Saiful,Islam,"Ramgarh khagrachari Ramgarh khagrachari",Ramgarh,,,Bangladesh,01837842640
+11628857,GO#2537,2025-02-05T15:28:49,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 36 / Multicolor",355.00,1,355.00,,,"36 / Multicolor",,0.0000,Abu,zafar,"Abu zafar babu Babu","Maheshpur Jhenaidah",,Jhenaidah,,,Bangladesh,azbabu@yahoo.com,0.000,0.00,284.00,71.00,0.00,426.00,"Abu zafar babu Babu
+Maheshpur Jhenaidah 
+01714694004
+Jhenaidah
+Bangladesh","Abu zafar babu Babu
+Maheshpur Jhenaidah 
+01714694004
+Jhenaidah
+Bangladesh",01714694004,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Abu zafar babu",Babu,"Maheshpur Jhenaidah Maheshpur Jhenaidah",Jhenaidah,,,Bangladesh,01714694004,"Abu zafar babu",Babu,"Maheshpur Jhenaidah Maheshpur Jhenaidah",Jhenaidah,,,Bangladesh,01714694004
+11628857,GO#2537,2025-02-05T15:28:49,pending,"Cash on Delivery (COD)",unfulfilled,"Printed Comfortable 3 Pieces Combo Cotton Panty For Women - XXL / Multicolor",245.00,1,245.00,,,"XXL / Multicolor",,0.0000,Abu,zafar,"Abu zafar babu Babu","Maheshpur Jhenaidah",,Jhenaidah,,,Bangladesh,azbabu@yahoo.com,0.000,0.00,196.00,49.00,0.00,294.00,"Abu zafar babu Babu
+Maheshpur Jhenaidah 
+01714694004
+Jhenaidah
+Bangladesh","Abu zafar babu Babu
+Maheshpur Jhenaidah 
+01714694004
+Jhenaidah
+Bangladesh",01714694004,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Abu zafar babu",Babu,"Maheshpur Jhenaidah Maheshpur Jhenaidah",Jhenaidah,,,Bangladesh,01714694004,"Abu zafar babu",Babu,"Maheshpur Jhenaidah Maheshpur Jhenaidah",Jhenaidah,,,Bangladesh,01714694004
+11629301,GO#2548,2025-02-05T17:20:53,pending,"Cash on Delivery (COD)",unfulfilled,"Printed Comfortable 3 Pieces Combo Cotton Panty For Women - L / Multicolor",245.00,2,490.00,,,"L / Multicolor",,0.0000,ইসলাম,আসরাফুল,"ইসলাম আসরাফুল","জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে হবিগঞ্জ Bangladesh",,হবিগঞ্জ,,,Bangladesh,,0.000,0.00,392.00,120.00,0.00,610.00,"ইসলাম আসরাফুল
+জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে হবিগঞ্জ Bangladesh 
++88001712556936
+হবিগঞ্জ
+Bangladesh","ইসলাম আসরাফুল
+জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে হবিগঞ্জ Bangladesh 
++88001712556936
+হবিগঞ্জ
+Bangladesh",+88001712556936,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",ইসলাম,আসরাফুল,"জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে হবিগঞ্জ Bangladesh জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে হবিগঞ্জ Bangladesh",হবিগঞ্জ,,,Bangladesh,+88001712556936,ইসলাম,আসরাফুল,"জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে হবিগঞ্জ Bangladesh জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে হবিগঞ্জ Bangladesh",হবিগঞ্জ,,,Bangladesh,+88001712556936
+11629500,GO#2551,2025-02-05T18:19:46,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Comfortable 3 Pieces Combo Cotton Panty For Women - XXL / Multicolor",335.00,2,670.00,,,"XXL / Multicolor",,0.0000,Eefa,Rashid,"Eefa Rashid","Lane # 5, House # 361, Baridhara DOHS 4th floor",,Dhaka,,1215,Bangladesh,,0.000,0.00,536.00,100.00,0.00,770.00,"Eefa Rashid
+Lane # 5, House # 361, Baridhara DOHS 4th floor 
++8801688500855
+Dhaka
+1215
+Bangladesh","Eefa Rashid
+Lane # 5, House # 361, Baridhara DOHS 4th floor 
++8801688500855
+Dhaka
+1215
+Bangladesh",+8801688500855,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Eefa,Rashid,"Lane # 5, House # 361, Baridhara DOHS 4th floor Lane # 5, House # 361, Baridhara DOHS 4th floor",Dhaka,,1215,Bangladesh,+8801688500855,Eefa,Rashid,"Lane # 5, House # 361, Baridhara DOHS 4th floor Lane # 5, House # 361, Baridhara DOHS 4th floor",Dhaka,,1215,Bangladesh,+8801688500855
+11629907,GO#2559,2025-02-05T20:00:24,pending,"Cash on Delivery (COD)",unfulfilled,"Indian 4 Pieces Chicken Cotton 4 Hook Bra for Women - 36 / Multicolor",890.00,1,890.00,,,"36 / Multicolor",,0.0000,Yasmeen,Jahan,"Yasmeen Jahan","413,Nilganj road, Sholakia, Kishoreganj",,Kishoreganj,,,Bangladesh,,0.000,0.00,712.00,120.00,0.00,1010.00,"Yasmeen Jahan
+413,Nilganj road, Sholakia, Kishoreganj 
+01621705393
+Kishoreganj
+Bangladesh","Yasmeen Jahan
+413,Nilganj road, Sholakia, Kishoreganj 
+01621705393
+Kishoreganj
+Bangladesh",01621705393,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Yasmeen,Jahan,"413,Nilganj road, Sholakia, Kishoreganj 413,Nilganj road, Sholakia, Kishoreganj",Kishoreganj,,,Bangladesh,01621705393,Yasmeen,Jahan,"413,Nilganj road, Sholakia, Kishoreganj 413,Nilganj road, Sholakia, Kishoreganj",Kishoreganj,,,Bangladesh,01621705393
+11630306,GO#2568,2025-02-05T21:36:12,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 34 / Multicolor",320.00,1,320.00,,,"34 / Multicolor",,0.0000,Md,Rajon,"Md Rajon Ahmed",Tajpur.osmaninagor.sylhet,,Sylhet,,,Bangladesh,,0.000,0.00,256.00,120.00,0.00,440.00,"Md Rajon Ahmed
+Tajpur.osmaninagor.sylhet 
+01724927025
+Sylhet
+Bangladesh","Md Rajon Ahmed
+Tajpur.osmaninagor.sylhet 
+01724927025
+Sylhet
+Bangladesh",01724927025,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Md Rajon",Ahmed,"Tajpur.osmaninagor.sylhet Tajpur.osmaninagor.sylhet",Sylhet,,,Bangladesh,01724927025,"Md Rajon",Ahmed,"Tajpur.osmaninagor.sylhet Tajpur.osmaninagor.sylhet",Sylhet,,,Bangladesh,01724927025
+11631386,GO#2591,2025-02-06T01:16:21,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",355.00,1,355.00,,,"38 / Multicolor",,0.0000,Mohammad,Nazrul,"Mohammad Nazrul Nazrul","Chittagong /Fatickchari",,Fatickchari,,,Bangladesh,,0.000,0.00,284.00,120.00,0.00,475.00,"Mohammad Nazrul Nazrul
+Chittagong /Fatickchari 
+01849729790
+Fatickchari
+Bangladesh","Mohammad Nazrul Nazrul
+Chittagong /Fatickchari 
+01849729790
+Fatickchari
+Bangladesh",01849729790,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Mohammad Nazrul",Nazrul,"Chittagong /Fatickchari Chittagong /Fatickchari",Fatickchari,,,Bangladesh,01849729790,"Mohammad Nazrul",Nazrul,"Chittagong /Fatickchari Chittagong /Fatickchari",Fatickchari,,,Bangladesh,01849729790
+11633188,GO#2599,2025-02-06T10:14:01,pending,"Cash on Delivery (COD)",unfulfilled,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 38 / Multicolor",580.00,1,580.00,,,"38 / Multicolor",,0.0000,Md,Toyon,"Md Toyon","Bhairab bazar",,"Bhairab, kishoregonj",,2350,Bangladesh,,0.000,0.00,464.00,120.00,0.00,700.00,"Md Toyon
+Bhairab bazar 
+01616989296
+Bhairab, kishoregonj
+2350
+Bangladesh","Md Toyon
+Bhairab bazar 
+01616989296
+Bhairab, kishoregonj
+2350
+Bangladesh",01616989296,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Md,Toyon,"Bhairab bazar Bhairab bazar","Bhairab, kishoregonj",,2350,Bangladesh,01616989296,Md,Toyon,"Bhairab bazar Bhairab bazar","Bhairab, kishoregonj",,2350,Bangladesh,01616989296
+11633540,GO#2613,2025-02-06T12:38:07,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",355.00,1,355.00,,,"38 / Multicolor",,0.0000,Easin,vai,"Easin vai zs মহসিন আলী","Sholdaho Bakpur",,"বাগের হাট",,,Bangladesh,sm.mohasinali@gmail.com,0.000,0.00,284.00,100.00,0.00,455.00,"Easin vai zs মহসিন আলী
+Sholdaho Bakpur 
+01771106605
+বাগের হাট
+Bangladesh","Easin vai zs মহসিন আলী
+Sholdaho Bakpur 
+01771106605
+বাগের হাট
+Bangladesh",01771106605,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Easin vai zs","মহসিন আলী","Sholdaho Bakpur Sholdaho Bakpur","বাগের হাট",,,Bangladesh,01771106605,"Easin vai zs","মহসিন আলী","Sholdaho Bakpur Sholdaho Bakpur","বাগের হাট",,,Bangladesh,01771106605
+11634091,GO#2626,2025-02-06T15:29:57,pending,"Cash on Delivery (COD)",unfulfilled,"Dream Random Color Bikini Set For Girls & Women (1 Pcs) - 32",145.00,1,145.00,,,32,,0.0000,arafat,pranto,"arafat pranto","barobazar ,,,,kaligonz ,,,, Jhenaidah",,Khulna,,,Bangladesh,,0.000,0.00,116.00,120.00,0.00,265.00,"arafat pranto
+barobazar ,,,,kaligonz ,,,, Jhenaidah 
+01623740008
+Khulna
+Bangladesh","arafat pranto
+barobazar ,,,,kaligonz ,,,, Jhenaidah 
+01623740008
+Khulna
+Bangladesh",01623740008,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",arafat,pranto,"barobazar ,,,,kaligonz ,,,, Jhenaidah barobazar ,,,,kaligonz ,,,, Jhenaidah",Khulna,,,Bangladesh,01623740008,arafat,pranto,"barobazar ,,,,kaligonz ,,,, Jhenaidah barobazar ,,,,kaligonz ,,,, Jhenaidah",Khulna,,,Bangladesh,01623740008
+11634418,GO#2637,2025-02-06T16:55:09,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 40 / Multicolor",355.00,1,355.00,,,"40 / Multicolor",,0.0000,Faruque,Khan,"Faruque Khan","House 56 Road 1 block A section 10 Mirpur 10 Dhaka 1216",,"Dhaka North",,1216,Bangladesh,faruque.khan84@gmail.com,0.000,0.00,284.00,100.00,0.00,455.00,"Faruque Khan
+House 56 Road 1 block A section 10 Mirpur 10 Dhaka 1216 
+01710141684
+Dhaka North
+1216
+Bangladesh","Faruque Khan
+House 56 Road 1 block A section 10 Mirpur 10 Dhaka 1216 
+01710141684
+Dhaka North
+1216
+Bangladesh",01710141684,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Faruque,Khan,"House 56 Road 1 block A section 10 Mirpur 10 Dhaka 1216 House 56 Road 1 block A section 10 Mirpur 10 Dhaka 1216","Dhaka North",,1216,Bangladesh,01710141684,Faruque,Khan,"House 56 Road 1 block A section 10 Mirpur 10 Dhaka 1216 House 56 Road 1 block A section 10 Mirpur 10 Dhaka 1216","Dhaka North",,1216,Bangladesh,01710141684
+11634588,GO#2638,2025-02-06T17:44:03,pending,"Cash on Delivery (COD)",unfulfilled,"Indian Mom Polish Cotton 4 Pieces Combo Bra For Woman - 40 / Multicolor",420.00,1,420.00,,,"40 / Multicolor",,0.0000,Fariya,hossain,"Fariya hossain Hossain","Airport Hazi Camp,, Bottola Adc Camp Dhaka",,Dhaka,,1230,Bangladesh,fariyavisa@gmail.com,0.000,0.00,336.00,100.00,0.00,520.00,"Fariya hossain Hossain
+Airport Hazi Camp,, Bottola Adc Camp Dhaka 
++8801707386063
+Dhaka
+1230
+Bangladesh","Fariya hossain Hossain
+Airport Hazi Camp,, Bottola Adc Camp Dhaka 
++8801707386063
+Dhaka
+1230
+Bangladesh",+8801707386063,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Fariya hossain",Hossain,"Airport Hazi Camp,, Bottola Adc Camp Dhaka Airport Hazi Camp,, Bottola Adc Camp Dhaka",Dhaka,,1230,Bangladesh,+8801707386063,"Fariya hossain",Hossain,"Airport Hazi Camp,, Bottola Adc Camp Dhaka Airport Hazi Camp,, Bottola Adc Camp Dhaka",Dhaka,,1230,Bangladesh,+8801707386063
+11647882,GO#2732,2025-02-08T17:26:15,pending,"Cash on Delivery (COD)",unfulfilled,"Premium 4 Pieces Combo Soft Synthetic Bra - 34 / Multicolor",640.00,1,640.00,,,"34 / Multicolor",":: Messenger Order",0.0000,Md,Rajon,"Md Rajon Ahmed","Md rajon ahmed Tajpur.osmaninagor.sylhet",,Sylhet,,,Bangladesh,,0.000,0.00,512.00,100.00,0.00,740.00,"Rajon Ahmed
+Md rajon ahmed Tajpur.osmaninagor.sylhet 
+01724927025
+Sylhet
+Bangladesh","Rajon Ahmed
+Md rajon ahmed Tajpur.osmaninagor.sylhet 
+01724927025
+Sylhet
+Bangladesh",01724927025,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Rajon,Ahmed,"Md rajon ahmed Tajpur.osmaninagor.sylhet Md rajon ahmed Tajpur.osmaninagor.sylhet",Sylhet,,,Bangladesh,01724927025,Rajon,Ahmed,"Md rajon ahmed Tajpur.osmaninagor.sylhet Md rajon ahmed Tajpur.osmaninagor.sylhet",Sylhet,,,Bangladesh,01724927025
+11652568,GO#2753,2025-02-09T06:54:04,Refunded,"Cash on Delivery (COD)",Refunded,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 34 / Multicolor",580.00,1,580.00,,,"34 / Multicolor",,0.0000,Shagor,Khan,"Shagor Khan","Acmotali khan shorok Madaripur",,Madaripur,,,Bangladesh,shagorms000@gmail.com,0.000,0.00,464.00,100.00,0.00,680.00,"Shagor Khan
+Acmotali khan shorok Madaripur 
+01325243016
+Madaripur
+Bangladesh","Shagor Khan
+Acmotali khan shorok Madaripur 
+01325243016
+Madaripur
+Bangladesh",01325243016,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Shagor,Khan,"Acmotali khan shorok Madaripur Acmotali khan shorok Madaripur",Madaripur,,,Bangladesh,01325243016,Shagor,Khan,"Acmotali khan shorok Madaripur Acmotali khan shorok Madaripur",Madaripur,,,Bangladesh,01325243016
+11652589,GO#2754,2025-02-09T06:59:21,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - M / Multicolor",340.00,1,340.00,,,"M / Multicolor",,0.0000,ইসলাম,আসরাফুল,"ইসলাম আসরাফুল","জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে",,হবিগঞ্জ,,,Bangladesh,aasrful1@gmail.com,0.000,0.00,272.00,80.00,0.00,420.00,"ইসলাম আসরাফুল
+জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে 
++88001712556936
+হবিগঞ্জ
+Bangladesh","ইসলাম আসরাফুল
+জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে 
++88001712556936
+হবিগঞ্জ
+Bangladesh",+88001712556936,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",ইসলাম,আসরাফুল,"জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে",হবিগঞ্জ,,,Bangladesh,+88001712556936,ইসলাম,আসরাফুল,"জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে জেলা হবিগঞ্জ থানা বানিয়াচং বড় বাজার উপজেলা র সামনে",হবিগঞ্জ,,,Bangladesh,+88001712556936
+11652618,GO#2755,2025-02-09T07:06:17,Refunded,"Cash on Delivery (COD)",Refunded,"Indian 4 Pieces Chicken Cotton 4 Hook Bra for Women - 34 / Multicolor",890.00,1,890.00,,,"34 / Multicolor",,0.0000,Shagor,Khan,"Shagor Khan","Acmotali khan shorok Madaripur",,Madaripur,,,Bangladesh,shagorms000@gmail.com,0.000,0.00,712.00,100.00,0.00,990.00,"Shagor Khan
+Acmotali khan shorok Madaripur 
+01325243016
+Madaripur
+Bangladesh","Shagor Khan
+Acmotali khan shorok Madaripur 
+01325243016
+Madaripur
+Bangladesh",01325243016,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Shagor,Khan,"Acmotali khan shorok Madaripur Acmotali khan shorok Madaripur",Madaripur,,,Bangladesh,01325243016,Shagor,Khan,"Acmotali khan shorok Madaripur Acmotali khan shorok Madaripur",Madaripur,,,Bangladesh,01325243016
+11652631,GO#2756,2025-02-09T07:11:18,pending,"Cash on Delivery (COD)",unfulfilled,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 38 / Multicolor",580.00,1,580.00,,,"38 / Multicolor",,0.0000,Shawon,Khab,"Shawon Khab","Bauphal,kalauya",,Barishal,,,Bangladesh,,0.000,0.00,464.00,100.00,0.00,680.00,"Shawon Khab
+Bauphal,kalauya 
+01714140303
+Barishal
+Bangladesh","Shawon Khab
+Bauphal,kalauya 
+01714140303
+Barishal
+Bangladesh",01714140303,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Shawon,Khab,"Bauphal,kalauya Bauphal,kalauya",Barishal,,,Bangladesh,01714140303,Shawon,Khab,"Bauphal,kalauya Bauphal,kalauya",Barishal,,,Bangladesh,01714140303
+11652686,GO#2759,2025-02-09T07:31:23,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - S / Multicolor",340.00,1,340.00,,,"S / Multicolor",,0.0000,Seema,Ansari,"Seema Ansari","House23 Flat D4,ROAD 9/a,dhanmondi Dhaka",,Dhaka,,,Bangladesh,sim.zav.ansari@gmail.com,0.000,0.00,272.00,17.38,0.00,357.38,"Seema Ansari
+House23 Flat D4,ROAD 9/a,dhanmondi Dhaka 
+01764195991
+Dhaka
+Bangladesh","Seema Ansari
+House23 Flat D4,ROAD 9/a,dhanmondi Dhaka 
+01764195991
+Dhaka
+Bangladesh",01764195991,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Seema,Ansari,"House23 Flat D4,ROAD 9/a,dhanmondi Dhaka House23 Flat D4,ROAD 9/a,dhanmondi Dhaka",Dhaka,,,Bangladesh,01764195991,Seema,Ansari,"House23 Flat D4,ROAD 9/a,dhanmondi Dhaka House23 Flat D4,ROAD 9/a,dhanmondi Dhaka",Dhaka,,,Bangladesh,01764195991
+11652686,GO#2759,2025-02-09T07:31:23,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Comfortable 3 Pieces Combo Cotton Panty For Women - XXL / Multicolor",335.00,1,335.00,,,"XXL / Multicolor",,0.0000,Seema,Ansari,"Seema Ansari","House23 Flat D4,ROAD 9/a,dhanmondi Dhaka",,Dhaka,,,Bangladesh,sim.zav.ansari@gmail.com,0.000,0.00,268.00,17.13,0.00,352.13,"Seema Ansari
+House23 Flat D4,ROAD 9/a,dhanmondi Dhaka 
+01764195991
+Dhaka
+Bangladesh","Seema Ansari
+House23 Flat D4,ROAD 9/a,dhanmondi Dhaka 
+01764195991
+Dhaka
+Bangladesh",01764195991,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Seema,Ansari,"House23 Flat D4,ROAD 9/a,dhanmondi Dhaka House23 Flat D4,ROAD 9/a,dhanmondi Dhaka",Dhaka,,,Bangladesh,01764195991,Seema,Ansari,"House23 Flat D4,ROAD 9/a,dhanmondi Dhaka House23 Flat D4,ROAD 9/a,dhanmondi Dhaka",Dhaka,,,Bangladesh,01764195991
+11652686,GO#2759,2025-02-09T07:31:23,pending,"Cash on Delivery (COD)",unfulfilled,"Indian 4 Pieces Chicken Cotton 4 Hook Bra for Women - 38 / Multicolor",890.00,1,890.00,,,"38 / Multicolor",,0.0000,Seema,Ansari,"Seema Ansari","House23 Flat D4,ROAD 9/a,dhanmondi Dhaka",,Dhaka,,,Bangladesh,sim.zav.ansari@gmail.com,0.000,0.00,712.00,45.50,0.00,935.50,"Seema Ansari
+House23 Flat D4,ROAD 9/a,dhanmondi Dhaka 
+01764195991
+Dhaka
+Bangladesh","Seema Ansari
+House23 Flat D4,ROAD 9/a,dhanmondi Dhaka 
+01764195991
+Dhaka
+Bangladesh",01764195991,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Seema,Ansari,"House23 Flat D4,ROAD 9/a,dhanmondi Dhaka House23 Flat D4,ROAD 9/a,dhanmondi Dhaka",Dhaka,,,Bangladesh,01764195991,Seema,Ansari,"House23 Flat D4,ROAD 9/a,dhanmondi Dhaka House23 Flat D4,ROAD 9/a,dhanmondi Dhaka",Dhaka,,,Bangladesh,01764195991
+11652779,GO#2762,2025-02-09T08:28:18,pending,"Cash on Delivery (COD)",unfulfilled,"Indian Mom Polish Cotton 4 Pieces Combo Bra For Woman - 34 / Multicolor",420.00,1,420.00,,,"34 / Multicolor",,0.0000,Asaduzzaman,milon,"Asaduzzaman milon","Nahar Agro.Kharince.Khadapara.Monirampur.Jessore",,Jessore,,,Bangladesh,,0.000,0.00,336.00,55.26,0.00,475.26,"Asaduzzaman milon
+Nahar Agro.Kharince.Khadapara.Monirampur.Jessore 
+01763183321
+Jessore
+Bangladesh","Asaduzzaman milon
+Nahar Agro.Kharince.Khadapara.Monirampur.Jessore 
+01763183321
+Jessore
+Bangladesh",01763183321,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Asaduzzaman,milon,"Nahar Agro.Kharince.Khadapara.Monirampur.Jessore Nahar Agro.Kharince.Khadapara.Monirampur.Jessore",Jessore,,,Bangladesh,01763183321,Asaduzzaman,milon,"Nahar Agro.Kharince.Khadapara.Monirampur.Jessore Nahar Agro.Kharince.Khadapara.Monirampur.Jessore",Jessore,,,Bangladesh,01763183321
+11652779,GO#2762,2025-02-09T08:28:18,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - L / Multicolor",340.00,1,340.00,,,"L / Multicolor",,0.0000,Asaduzzaman,milon,"Asaduzzaman milon","Nahar Agro.Kharince.Khadapara.Monirampur.Jessore",,Jessore,,,Bangladesh,,0.000,0.00,272.00,44.74,0.00,384.74,"Asaduzzaman milon
+Nahar Agro.Kharince.Khadapara.Monirampur.Jessore 
+01763183321
+Jessore
+Bangladesh","Asaduzzaman milon
+Nahar Agro.Kharince.Khadapara.Monirampur.Jessore 
+01763183321
+Jessore
+Bangladesh",01763183321,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Asaduzzaman,milon,"Nahar Agro.Kharince.Khadapara.Monirampur.Jessore Nahar Agro.Kharince.Khadapara.Monirampur.Jessore",Jessore,,,Bangladesh,01763183321,Asaduzzaman,milon,"Nahar Agro.Kharince.Khadapara.Monirampur.Jessore Nahar Agro.Kharince.Khadapara.Monirampur.Jessore",Jessore,,,Bangladesh,01763183321
+11652974,GO#2773,2025-02-09T09:59:46,Refunded,"Cash on Delivery (COD)",Refunded,"Transparent 4 Pieces Combo Net Bra For Women - 40 / Multicolor",355.00,1,355.00,,,"40 / Multicolor",,0.0000,Abu,Junayed,"Abu Junayed Junayed","89 senpara parbata, Villa Magnolia, Mohua 5D, Mirpur 10",,Dhaka,,1216,Bangladesh,junayed_abu@yahoo.com,0.000,0.00,284.00,80.00,0.00,435.00,"Abu Junayed
+89 senpara parbata, Villa Magnolia, Mohua 5D, Mirpur 10 
+01714079392
+Dhaka
+1216
+Bangladesh","Abu Junayed Junayed
+89 senpara parbata, Villa Magnolia, Mohua 5D, Mirpur 10 
+01714079392
+Dhaka
+Bangladesh",01714079392,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Abu,Junayed,"89 senpara parbata, Villa Magnolia, Mohua 5D, Mirpur 10 89 senpara parbata, Villa Magnolia, Mohua 5D, Mirpur 10",Dhaka,,1216,Bangladesh,01714079392,"Abu Junayed",Junayed,"89 senpara parbata, Villa Magnolia, Mohua 5D, Mirpur 10 89 senpara parbata, Villa Magnolia, Mohua 5D, Mirpur 10",Dhaka,,,Bangladesh,01714079392
+11652983,GO#2775,2025-02-09T10:02:35,Refunded,"Cash on Delivery (COD)",Refunded,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 40 / Multicolor",580.00,1,580.00,,,"40 / Multicolor",,0.0000,Abu,Junayed,"Abu Junayed Junayed","89 Senpara Parbata, Villa Magnolia, Mohua 5d, Mirpur 10",,Dhaka,,1216,Bangladesh,junayed_abu@yahoo.com,0.000,0.00,464.00,80.00,0.00,660.00,"Abu Junayed
+89 Senpara Parbata, Villa Magnolia, Mohua 5d, Mirpur 10 
+01714079392
+Dhaka
+1216
+Bangladesh","Abu Junayed
+89 Senpara Parbata, Villa Magnolia, Mohua 5d, Mirpur 10 
+01714079392
+Dhaka
+1216
+Bangladesh",01714079392,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Abu,Junayed,"89 Senpara Parbata, Villa Magnolia, Mohua 5d, Mirpur 10 89 Senpara Parbata, Villa Magnolia, Mohua 5d, Mirpur 10",Dhaka,,1216,Bangladesh,01714079392,Abu,Junayed,"89 Senpara Parbata, Villa Magnolia, Mohua 5d, Mirpur 10 89 Senpara Parbata, Villa Magnolia, Mohua 5d, Mirpur 10",Dhaka,,1216,Bangladesh,01714079392
+11653285,GO#2800,2025-02-09T12:19:53,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Comfortable 3 Pieces Combo Cotton Panty For Women - XL / Multicolor",335.00,1,335.00,,,"XL / Multicolor",,0.0000,Md,Rabiul,"Md Rabiul Awal","Sathgara Madrasha Para(west side of Parjatan Motel)",,Rangpur,,5401,Bangladesh,mdrabiulawal007@gmail.com,0.000,0.00,268.00,54.47,0.00,389.47,"Md Rabiul Awal
+Sathgara Madrasha Para(west side of Parjatan Motel) 
+01717073664
+Rangpur
+5401
+Bangladesh","Md Rabiul Awal
+Sathgara Madrasha Para(west side of Parjatan Motel) 
+01717073664
+Rangpur
+5401
+Bangladesh",01717073664,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Md Rabiul",Awal,"Sathgara Madrasha Para(west side of Parjatan Motel) Sathgara Madrasha Para(west side of Parjatan Motel)",Rangpur,,5401,Bangladesh,01717073664,"Md Rabiul",Awal,"Sathgara Madrasha Para(west side of Parjatan Motel) Sathgara Madrasha Para(west side of Parjatan Motel)",Rangpur,,5401,Bangladesh,01717073664
+11653475,GO#2811,2025-02-09T13:19:19,pending,"Cash on Delivery (COD)",unfulfilled,"Premium 4 Pieces Combo Soft Synthetic Bra - 34 / Multicolor",640.00,1,640.00,,,"34 / Multicolor",,0.0000,Md.,Azmain,"Md. Azmain","2nd Floor,Eastern Arzoo Complex, 61 Bijoynagar, Dhaka.",,Dhaka,,,Bangladesh,mdazmain809@gmail.com,0.000,0.00,512.00,80.00,0.00,720.00,"Md. Azmain
+2nd Floor,Eastern Arzoo Complex, 61 Bijoynagar, Dhaka. 
+01610158949
+Dhaka
+Bangladesh","Md. Azmain
+2nd Floor,Eastern Arzoo Complex, 61 Bijoynagar, Dhaka. 
+01610158949
+Dhaka
+Bangladesh",01610158949,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Md.,Azmain,"2nd Floor,Eastern Arzoo Complex, 61 Bijoynagar, Dhaka. 2nd Floor,Eastern Arzoo Complex, 61 Bijoynagar, Dhaka.",Dhaka,,,Bangladesh,01610158949,Md.,Azmain,"2nd Floor,Eastern Arzoo Complex, 61 Bijoynagar, Dhaka. 2nd Floor,Eastern Arzoo Complex, 61 Bijoynagar, Dhaka.",Dhaka,,,Bangladesh,01610158949
+11653790,GO#2829,2025-02-09T15:10:15,pending,"Cash on Delivery (COD)",unfulfilled,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 38 / Multicolor",580.00,1,580.00,,,"38 / Multicolor",,0.0000,Md,Monju,"Md Monju","North Madarsha Hathazari Chittagong",,Chittagong,,,Bangladesh,mdmonju1313@gmail.com,0.000,0.00,464.00,100.00,0.00,680.00,"Md Monju
+North Madarsha Hathazari Chittagong 
+01836259013
+Chittagong
+Bangladesh","Md Monju
+North Madarsha Hathazari Chittagong 
+01836259013
+Chittagong
+Bangladesh",01836259013,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Md,Monju,"North Madarsha Hathazari Chittagong North Madarsha Hathazari Chittagong",Chittagong,,,Bangladesh,01836259013,Md,Monju,"North Madarsha Hathazari Chittagong North Madarsha Hathazari Chittagong",Chittagong,,,Bangladesh,01836259013
+11653993,GO#2834,2025-02-09T16:10:20,pending,"Cash on Delivery (COD)",unfulfilled,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 40 / Multicolor",580.00,1,580.00,,,"40 / Multicolor",,0.0000,Milton,Milton,"Milton Milton","Bhangura,pabna",,Bangladesh,,,Bangladesh,,0.000,0.00,464.00,100.00,0.00,680.00,"Milton Milton
+Bhangura,pabna 
+01717861695
+Bangladesh
+Bangladesh","Milton Milton
+Bhangura,pabna 
+01717861695
+Bangladesh
+Bangladesh",01717861695,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Milton,Milton,"Bhangura,pabna Bhangura,pabna",Bangladesh,,,Bangladesh,01717861695,Milton,Milton,"Bhangura,pabna Bhangura,pabna",Bangladesh,,,Bangladesh,01717861695
+11654686,GO#2847,2025-02-09T19:21:32,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - S / Multicolor",340.00,1,340.00,,,"S / Multicolor",,0.0000,Ahmed,Ruhel,"Ahmed Ruhel","Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh",,Sylhet,,,Bangladesh,,0.000,0.00,272.00,34.69,0.00,374.69,"Ahmed Ruhel
+Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh 
+01734568059
+Sylhet
+Bangladesh","Ahmed Ruhel
+Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh 
+01734568059
+Sylhet
+Bangladesh",01734568059,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Ahmed,Ruhel,"Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh",Sylhet,,,Bangladesh,01734568059,Ahmed,Ruhel,"Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh",Sylhet,,,Bangladesh,01734568059
+11654686,GO#2847,2025-02-09T19:21:32,pending,"Cash on Delivery (COD)",unfulfilled,"Premium 4 Pieces Combo Soft Synthetic Bra - 32 / Multicolor",640.00,1,640.00,,,"32 / Multicolor",,0.0000,Ahmed,Ruhel,"Ahmed Ruhel","Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh",,Sylhet,,,Bangladesh,,0.000,0.00,512.00,65.31,0.00,705.31,"Ahmed Ruhel
+Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh 
+01734568059
+Sylhet
+Bangladesh","Ahmed Ruhel
+Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh 
+01734568059
+Sylhet
+Bangladesh",01734568059,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Ahmed,Ruhel,"Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh",Sylhet,,,Bangladesh,01734568059,Ahmed,Ruhel,"Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh Sunamgonn,Jogonnatpur Habibpur Shapur, Sylhet 3060 Bangladesh",Sylhet,,,Bangladesh,01734568059
+11654881,GO#2855,2025-02-09T20:11:55,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",355.00,1,355.00,,,"38 / Multicolor",,0.0000,Rased,Ahmed,"Rased Ahmed","Molobibazar Sadar, Molobibazar",,Molobibazar,,,Bangladesh,,0.000,0.00,284.00,100.00,0.00,455.00,"Rased Ahmed
+Molobibazar Sadar, Molobibazar 
+01646864037
+Molobibazar
+Bangladesh","Rased Ahmed
+Molobibazar Sadar, Molobibazar 
+01646864037
+Molobibazar
+Bangladesh",01646864037,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Rased,Ahmed,"Molobibazar Sadar, Molobibazar Molobibazar Sadar, Molobibazar",Molobibazar,,,Bangladesh,01646864037,Rased,Ahmed,"Molobibazar Sadar, Molobibazar Molobibazar Sadar, Molobibazar",Molobibazar,,,Bangladesh,01646864037
+11655048,GO#2860,2025-02-09T21:01:39,pending,"Cash on Delivery (COD)",unfulfilled,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 38 / Multicolor",580.00,1,580.00,,,"38 / Multicolor",,0.0000,Ayon,Ahamed,"Ayon Ahamed Fahad","জেলা:পঞ্চগড় থানা:দেবীগঞ্জ ঠিকানা:কালুরহাট দেবীগঞ্জ 5020",,পঞ্চগড়,,,Bangladesh,,0.000,0.00,464.00,100.00,0.00,680.00,"Fahad al sad Ayon
+জেলা:পঞ্চগড় থানা:দেবীগঞ্জ ঠিকানা:কালুরহাট দেবীগঞ্জ 5020 
+01985598469
+পঞ্চগড়
+Bangladesh","Fahad al sad Ayon
+জেলা:পঞ্চগড় থানা:দেবীগঞ্জ ঠিকানা:কালুরহাট দেবীগঞ্জ 5020 
+01985598469
+পঞ্চগড়
+Bangladesh",01985598469,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Fahad al","sad Ayon","জেলা:পঞ্চগড় থানা:দেবীগঞ্জ ঠিকানা:কালুরহাট দেবীগঞ্জ 5020 জেলা:পঞ্চগড় থানা:দেবীগঞ্জ ঠিকানা:কালুরহাট দেবীগঞ্জ 5020",পঞ্চগড়,,,Bangladesh,01985598469,"Fahad al","sad Ayon","জেলা:পঞ্চগড় থানা:দেবীগঞ্জ ঠিকানা:কালুরহাট দেবীগঞ্জ 5020 জেলা:পঞ্চগড় থানা:দেবীগঞ্জ ঠিকানা:কালুরহাট দেবীগঞ্জ 5020",পঞ্চগড়,,,Bangladesh,01985598469
+11655789,GO#2878,2025-02-09T23:39:56,pending,"Cash on Delivery (COD)",unfulfilled,"Printed Comfortable 3 Pieces Combo Cotton Panty For Women - L / Multicolor",245.00,1,245.00,,,"L / Multicolor",,0.0000,Sanjish,Saha,"Sanjish Saha","KA-32/6, Highway homes, Shahjadpur, Badda, Dhaka",,Dhaka,,,Bangladesh,sanjish.aiub@gmail.com,0.000,0.00,196.00,80.00,0.00,325.00,"Sanjish Saha
+KA-32/6, Highway homes, Shahjadpur, Badda, Dhaka 
+01796382576
+Dhaka
+Bangladesh","Sanjish Saha
+KA-32/6, Highway homes, Shahjadpur, Badda, Dhaka 
+01796382576
+Dhaka
+Bangladesh",01796382576,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Sanjish,Saha,"KA-32/6, Highway homes, Shahjadpur, Badda, Dhaka KA-32/6, Highway homes, Shahjadpur, Badda, Dhaka",Dhaka,,,Bangladesh,01796382576,Sanjish,Saha,"KA-32/6, Highway homes, Shahjadpur, Badda, Dhaka KA-32/6, Highway homes, Shahjadpur, Badda, Dhaka",Dhaka,,,Bangladesh,01796382576
+11656236,GO#2885,2025-02-10T01:05:30,pending,"Cash on Delivery (COD)",unfulfilled,"Premium 4 Pieces Combo Soft Synthetic Bra - 34 / Multicolor",640.00,1,640.00,,,"34 / Multicolor",,0.0000,Arafat,Hossain,"Arafat Hossain","Al Faruque Academy, Chatkhil, Noakhali",,noakhali,,,Bangladesh,saulaltansin@gmail.com,0.000,0.00,512.00,100.00,0.00,740.00,"Arafat Hossain
+Al Faruque Academy, Chatkhil, Noakhali 
+01874520697
+noakhali
+Bangladesh","Arafat Hossain
+Al Faruque Academy, Chatkhil, Noakhali 
+01874520697
+noakhali
+Bangladesh",01874520697,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Arafat,Hossain,"Al Faruque Academy, Chatkhil, Noakhali Al Faruque Academy, Chatkhil, Noakhali",noakhali,,,Bangladesh,01874520697,Arafat,Hossain,"Al Faruque Academy, Chatkhil, Noakhali Al Faruque Academy, Chatkhil, Noakhali",noakhali,,,Bangladesh,01874520697
+11657687,GO#2896,2025-02-10T06:50:57,pending,"Cash on Delivery (COD)",unfulfilled,"Printed Comfortable 3 Pieces Combo Cotton Panty For Women - XL / Multicolor",245.00,1,245.00,,,"XL / Multicolor",,0.0000,rifat,ara,"rifat ara Sultana","12/ ring road bosoti provati shamoli 6e flat",,Dhaka,,,Bangladesh,rifat.as@brac.net,0.000,0.00,196.00,80.00,0.00,325.00,"rifat ara Sultana
+12/ ring road bosoti provati shamoli 6e flat 
+01795377286
+Dhaka
+Bangladesh","rifat ara Sultana
+12/ ring road bosoti provati shamoli 6e flat 
+01795377286
+Dhaka
+Bangladesh",01795377286,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","rifat ara",Sultana,"12/ ring road bosoti provati shamoli 6e flat 12/ ring road bosoti provati shamoli 6e flat",Dhaka,,,Bangladesh,01795377286,"rifat ara",Sultana,"12/ ring road bosoti provati shamoli 6e flat 12/ ring road bosoti provati shamoli 6e flat",Dhaka,,,Bangladesh,01795377286
+11657742,GO#2897,2025-02-10T07:11:08,Refunded,"Cash on Delivery (COD)",Refunded,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 32 / Multicolor",580.00,1,580.00,,,"32 / Multicolor",,0.0000,Md,zihad,"Md zihad","Gazipura shataish",,Gazipur,,1702,Bangladesh,mzihad87645@gmail.com,0.000,0.00,464.00,100.00,0.00,680.00,"Md zihad
+Gazipura shataish 
+01319330093
+Gazipur
+1702
+Bangladesh","Md zihad
+Gazipura shataish 
+01319330093
+Gazipur
+1702
+Bangladesh",01319330093,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Md,zihad,"Gazipura shataish Gazipura shataish",Gazipur,,1702,Bangladesh,01319330093,Md,zihad,"Gazipura shataish Gazipura shataish",Gazipur,,1702,Bangladesh,01319330093
+11658134,GO#2906,2025-02-10T10:23:04,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - M / Multicolor",340.00,1,340.00,,,"M / Multicolor",,0.0000,ZAKIA,SULTANA,"ZAKIA SULTANA","যশোর বিমানবন্দর , যশোর",,যশোর,,,Bangladesh,rashidulislam3102@gmail.com,0.000,0.00,272.00,27.64,0.00,367.64,"ZAKIA SULTANA
+যশোর বিমানবন্দর , যশোর 
+01867556650
+যশোর
+Bangladesh","ZAKIA SULTANA
+যশোর বিমানবন্দর , যশোর 
+01867556650
+যশোর
+Bangladesh",01867556650,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",ZAKIA,SULTANA,"যশোর বিমানবন্দর , যশোর যশোর বিমানবন্দর , যশোর",যশোর,,,Bangladesh,01867556650,ZAKIA,SULTANA,"যশোর বিমানবন্দর , যশোর যশোর বিমানবন্দর , যশোর",যশোর,,,Bangladesh,01867556650
+11658134,GO#2906,2025-02-10T10:23:04,pending,"Cash on Delivery (COD)",unfulfilled,"Indian 4 Pieces Chicken Cotton 4 Hook Bra for Women - 34 / Multicolor",890.00,1,890.00,,,"34 / Multicolor",,0.0000,ZAKIA,SULTANA,"ZAKIA SULTANA","যশোর বিমানবন্দর , যশোর",,যশোর,,,Bangladesh,rashidulislam3102@gmail.com,0.000,0.00,712.00,72.36,0.00,962.36,"ZAKIA SULTANA
+যশোর বিমানবন্দর , যশোর 
+01867556650
+যশোর
+Bangladesh","ZAKIA SULTANA
+যশোর বিমানবন্দর , যশোর 
+01867556650
+যশোর
+Bangladesh",01867556650,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",ZAKIA,SULTANA,"যশোর বিমানবন্দর , যশোর যশোর বিমানবন্দর , যশোর",যশোর,,,Bangladesh,01867556650,ZAKIA,SULTANA,"যশোর বিমানবন্দর , যশোর যশোর বিমানবন্দর , যশোর",যশোর,,,Bangladesh,01867556650
+11658417,GO#2912,2025-02-10T12:21:28,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Comfortable 3 Pieces Combo Cotton Panty For Women - XL / Multicolor",335.00,1,335.00,,,"XL / Multicolor",,0.0000,Gonesh,Shil,"Gonesh Shil","Maya homoeo pharmachy,near by amania hotel.maijdee court,noakhali.",,"Noakhali,maijdee.",,3800,Bangladesh,,0.000,0.00,268.00,80.00,0.00,415.00,"Gonesh Shil
+Maya homoeo pharmachy,near by amania hotel.maijdee court,noakhali. 
+01719881355
+Noakhali,maijdee.
+3800
+Bangladesh","Gonesh Shil
+Maya homoeo pharmachy,near by amania hotel.maijdee court,noakhali. 
+01719881355
+Noakhali,maijdee.
+3800
+Bangladesh",01719881355,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Gonesh,Shil,"Maya homoeo pharmachy,near by amania hotel.maijdee court,noakhali. Maya homoeo pharmachy,near by amania hotel.maijdee court,noakhali.","Noakhali,maijdee.",,3800,Bangladesh,01719881355,Gonesh,Shil,"Maya homoeo pharmachy,near by amania hotel.maijdee court,noakhali. Maya homoeo pharmachy,near by amania hotel.maijdee court,noakhali.","Noakhali,maijdee.",,3800,Bangladesh,01719881355
+11658986,GO#2920,2025-02-10T15:27:28,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 36 / Multicolor",355.00,1,355.00,,,"36 / Multicolor",,0.0000,Naz,Naz,"Naz Naz","Johura Mollika Vobon, Mujib Sarak, Sirajganj Sadar, Sirajganj",,Sirajganj,,6700,Bangladesh,rakibulnaz21@gmail.com,0.000,0.00,284.00,100.00,0.00,455.00,"Naz Naz
+Johura Mollika Vobon, Mujib Sarak, Sirajganj Sadar, Sirajganj 
+01300564619
+Sirajganj
+6700
+Bangladesh","Naz Naz
+Johura Mollika Vobon, Mujib Sarak, Sirajganj Sadar, Sirajganj 
+01300564619
+Sirajganj
+6700
+Bangladesh",01300564619,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Naz,Naz,"Johura Mollika Vobon, Mujib Sarak, Sirajganj Sadar, Sirajganj Johura Mollika Vobon, Mujib Sarak, Sirajganj Sadar, Sirajganj",Sirajganj,,6700,Bangladesh,01300564619,Naz,Naz,"Johura Mollika Vobon, Mujib Sarak, Sirajganj Sadar, Sirajganj Johura Mollika Vobon, Mujib Sarak, Sirajganj Sadar, Sirajganj",Sirajganj,,6700,Bangladesh,01300564619
+11659037,GO#2923,2025-02-10T15:44:20,pending,"Cash on Delivery (COD)",unfulfilled,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 36 / Multicolor",580.00,1,580.00,,,"36 / Multicolor",,0.0000,Abir,Abir,"Abir Abir","কদমতলী থানার পাশে।রায়েরবাগ।ঢাকা।",,Dhaka,,,Bangladesh,mabir860@yahoo.com,0.000,0.00,464.00,80.00,0.00,660.00,"Abir Abir
+কদমতলী থানার পাশে।রায়েরবাগ।ঢাকা। 
++8801839774884
+Dhaka
+Bangladesh","Abir Abir
+কদমতলী থানার পাশে।রায়েরবাগ।ঢাকা। 
++8801839774884
+Dhaka
+Bangladesh",+8801839774884,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Abir,Abir,"কদমতলী থানার পাশে।রায়েরবাগ।ঢাকা। কদমতলী থানার পাশে।রায়েরবাগ।ঢাকা।",Dhaka,,,Bangladesh,+8801839774884,Abir,Abir,"কদমতলী থানার পাশে।রায়েরবাগ।ঢাকা। কদমতলী থানার পাশে।রায়েরবাগ।ঢাকা।",Dhaka,,,Bangladesh,+8801839774884
+11659177,GO#2927,2025-02-10T16:26:15,pending,"Cash on Delivery (COD)",unfulfilled,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 40 / Multicolor",580.00,1,580.00,,,"40 / Multicolor",":: Messenger order",0.0000,সুমি,আক্তার,"সুমি আক্তার","মোহাম্মদপুর ঢাকা উদদান তেলের পাম্পের সাথে রোড নং 1 বাসা নং 2",,Dhaka,,,Bangladesh,,0.000,0.00,464.00,80.00,0.00,660.00,"সুমি আক্তার
+মোহাম্মদপুর ঢাকা উদদান তেলের পাম্পের সাথে রোড নং 1 বাসা নং 2 
+01790099020
+Dhaka
+Bangladesh","সুমি আক্তার
+মোহাম্মদপুর ঢাকা উদদান তেলের পাম্পের সাথে রোড নং 1 বাসা নং 2 
+01790099020
+Dhaka
+Bangladesh",01790099020,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",সুমি,আক্তার,"মোহাম্মদপুর ঢাকা উদদান তেলের পাম্পের সাথে রোড নং 1 বাসা নং 2 মোহাম্মদপুর ঢাকা উদদান তেলের পাম্পের সাথে রোড নং 1 বাসা নং 2",Dhaka,,,Bangladesh,01790099020,সুমি,আক্তার,"মোহাম্মদপুর ঢাকা উদদান তেলের পাম্পের সাথে রোড নং 1 বাসা নং 2 মোহাম্মদপুর ঢাকা উদদান তেলের পাম্পের সাথে রোড নং 1 বাসা নং 2",Dhaka,,,Bangladesh,01790099020
+11659765,GO#2947,2025-02-10T18:59:20,Refunded,"Cash on Delivery (COD)",Refunded,"Printed Comfortable 3 Pieces Combo Cotton Panty For Women - XXL / Multicolor",245.00,1,245.00,,,"XXL / Multicolor",,0.0000,Mosumi,Akter,"Mosumi Akter","Bauniyabad, Laine-5,House-17 2nd floor,Block-D,Mirpur -11",,Dhaka,,1216,Bangladesh,imam.rokomari@gmail.com,0.000,0.00,196.00,80.00,0.00,325.00,"Mosumi Akter
+Bauniyabad, Laine-5,House-17 2nd floor,Block-D,Mirpur -11 
+01989374686
+Dhaka
+1216
+Bangladesh","Mosumi Akter
+Bauniyabad, Laine-5,House-17 2nd floor,Block-D,Mirpur -11 
+01989374686
+Dhaka
+1216
+Bangladesh",01989374686,,,,,0.00,Admin,,,NULL,Admin,Removed," "," "," ",Mosumi,Akter,"Bauniyabad, Laine-5,House-17 2nd floor,Block-D,Mirpur -11 Bauniyabad, Laine-5,House-17 2nd floor,Block-D,Mirpur -11",Dhaka,,1216,Bangladesh,01989374686,Mosumi,Akter,"Bauniyabad, Laine-5,House-17 2nd floor,Block-D,Mirpur -11 Bauniyabad, Laine-5,House-17 2nd floor,Block-D,Mirpur -11",Dhaka,,1216,Bangladesh,01989374686
+11659976,GO#2952,2025-02-10T19:50:19,pending,"Cash on Delivery (COD)",unfulfilled,"Premium Big Belt 4 Pieces Combo Soft Synthetic Bra - 40 / Multicolor",580.00,1,580.00,,,"40 / Multicolor",,0.0000,Razib,Ud,"Razib Ud doula Doula","Road No 2/2,islambag, Rk Road, Rangpur Sadar,rangpur.",,Rangpur,,,Bangladesh,,0.000,0.00,464.00,100.00,0.00,680.00,"Razib Ud doula Doula
+Road No 2/2,islambag, Rk Road, Rangpur Sadar,rangpur. 
+01711116646
+Rangpur
+Bangladesh","Razib Ud doula Doula
+Road No 2/2,islambag, Rk Road, Rangpur Sadar,rangpur. 
+01711116646
+Rangpur
+Bangladesh",01711116646,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Razib Ud doula",Doula,"Road No 2/2,islambag, Rk Road, Rangpur Sadar,rangpur. Road No 2/2,islambag, Rk Road, Rangpur Sadar,rangpur.",Rangpur,,,Bangladesh,01711116646,"Razib Ud doula",Doula,"Road No 2/2,islambag, Rk Road, Rangpur Sadar,rangpur. Road No 2/2,islambag, Rk Road, Rangpur Sadar,rangpur.",Rangpur,,,Bangladesh,01711116646
+11660364,GO#2965,2025-02-10T21:25:06,pending,"Cash on Delivery (COD)",unfulfilled,"Imported 4 Pieces Combo Stripe Bra For Women - 40 / Multicolor",480.00,1,480.00,,,"40 / Multicolor",,0.0000,Md,Alamin,"Md Alamin","Kaukhali, pirojpur, Barisal,",,Pirojpur,,,Bangladesh,,0.000,0.00,384.00,100.00,0.00,580.00,"Md Alamin
+Kaukhali, pirojpur, Barisal, 
+01705249544
+Pirojpur
+Bangladesh","Md Alamin
+Kaukhali, pirojpur, Barisal, 
+01705249544
+Pirojpur
+Bangladesh",01705249544,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Md,Alamin,"Kaukhali, pirojpur, Barisal, Kaukhali, pirojpur, Barisal,",Pirojpur,,,Bangladesh,01705249544,Md,Alamin,"Kaukhali, pirojpur, Barisal, Kaukhali, pirojpur, Barisal,",Pirojpur,,,Bangladesh,01705249544
+11661163,GO#2985,2025-02-11T00:22:35,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - M / Multicolor",340.00,1,340.00,,,"M / Multicolor",,0.0000,Kiron,Mondal,"Kiron Mondal","Hularhat Bazar, Pirojpur Sadar.",,"Pirojpur Pourashava",,,Bangladesh,kironc507@gmail.com,0.000,0.00,272.00,100.00,0.00,440.00,"Kiron Mondal
+Hularhat Bazar, Pirojpur Sadar. 
+01718452536
+Pirojpur Pourashava
+Bangladesh","Kiron Mondal
+Hularhat Bazar, Pirojpur Sadar. 
+01718452536
+Pirojpur Pourashava
+Bangladesh",01718452536,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Kiron,Mondal,"Hularhat Bazar, Pirojpur Sadar. Hularhat Bazar, Pirojpur Sadar.","Pirojpur Pourashava",,,Bangladesh,01718452536,Kiron,Mondal,"Hularhat Bazar, Pirojpur Sadar. Hularhat Bazar, Pirojpur Sadar.","Pirojpur Pourashava",,,Bangladesh,01718452536
+11661220,GO#2986,2025-02-11T00:37:55,pending,"Cash on Delivery (COD)",unfulfilled,"Printed Comfortable 3 Pieces Combo Cotton Panty For Women - L / Multicolor",245.00,1,245.00,,,"L / Multicolor",,0.0000,Showkat,Ali,"Showkat Ali","পাঠানিয়াগোদা, পুরাতন চাঁন্দগাও থানা, অামজাদ অালী মাস্টার সড়ক, ফাতোমা স্টোর।",,চট্টগ্রাম,,4212,Bangladesh,,0.000,0.00,196.00,100.00,0.00,345.00,"Showkat Ali
+পাঠানিয়াগোদা, পুরাতন চাঁন্দগাও থানা, অামজাদ অালী মাস্টার সড়ক, ফাতোমা স্টোর। 
+01837235585
+চট্টগ্রাম
+4212
+Bangladesh","Showkat Ali
+পাঠানিয়াগোদা, পুরাতন চাঁন্দগাও থানা, অামজাদ অালী মাস্টার সড়ক, ফাতোমা স্টোর। 
+01837235585
+চট্টগ্রাম
+4212
+Bangladesh",01837235585,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Showkat,Ali,"পাঠানিয়াগোদা, পুরাতন চাঁন্দগাও থানা, অামজাদ অালী মাস্টার সড়ক, ফাতোমা স্টোর। পাঠানিয়াগোদা, পুরাতন চাঁন্দগাও থানা, অামজাদ অালী মাস্টার সড়ক, ফাতোমা স্টোর।",চট্টগ্রাম,,4212,Bangladesh,01837235585,Showkat,Ali,"পাঠানিয়াগোদা, পুরাতন চাঁন্দগাও থানা, অামজাদ অালী মাস্টার সড়ক, ফাতোমা স্টোর। পাঠানিয়াগোদা, পুরাতন চাঁন্দগাও থানা, অামজাদ অালী মাস্টার সড়ক, ফাতোমা স্টোর।",চট্টগ্রাম,,4212,Bangladesh,01837235585
+11661267,GO#2989,2025-02-11T00:48:32,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - L / Multicolor",340.00,1,340.00,,,"L / Multicolor",,0.0000,Ripon,Islam,"Ripon Islam","25mile bazzar, birgonj, Dinajpur",,Dinajpur,,5100,Bangladesh,,0.000,0.00,272.00,100.00,0.00,440.00,"Ripon Islam
+25mile bazzar, birgonj, Dinajpur 
+01644915832
+Dinajpur
+5100
+Bangladesh","Ripon Islam
+25mile bazzar, birgonj, Dinajpur 
+01644915832
+Dinajpur
+5100
+Bangladesh",01644915832,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Ripon,Islam,"25mile bazzar, birgonj, Dinajpur 25mile bazzar, birgonj, Dinajpur",Dinajpur,,5100,Bangladesh,01644915832,Ripon,Islam,"25mile bazzar, birgonj, Dinajpur 25mile bazzar, birgonj, Dinajpur",Dinajpur,,5100,Bangladesh,01644915832
+11662810,GO#3042,2025-02-11T16:01:46,pending,"Cash on Delivery (COD)",unfulfilled,"Dream Random Color Bikini Set For Girls & Women (1 Pcs) - 40",145.00,1,145.00,,,40,,0.0000,Shariar,Sumon,"Shariar Sumon","9/A OvoyDas Lane,  Tikatully.",,Dhaka,,1203,Bangladesh,jsbwctp20@gmail.com,0.000,0.00,116.00,80.00,0.00,225.00,"Shariar Sumon
+9/A OvoyDas Lane,  Tikatully. 
+01681910360
+Dhaka
+1203
+Bangladesh","Shariar Sumon
+9/A OvoyDas Lane,  Tikatully. 
+01681910360
+Dhaka
+1203
+Bangladesh",01681910360,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Shariar,Sumon,"9/A OvoyDas Lane,  Tikatully. 9/A OvoyDas Lane,  Tikatully.",Dhaka,,1203,Bangladesh,01681910360,Shariar,Sumon,"9/A OvoyDas Lane,  Tikatully. 9/A OvoyDas Lane,  Tikatully.",Dhaka,,1203,Bangladesh,01681910360
+11663099,GO#3067,2025-02-11T17:21:23,pending,"Cash on Delivery (COD)",unfulfilled,"Indian Soft Cotton 4 Pieces Combo Bra for Women - 42 / Multicolor",690.00,1,690.00,,,"42 / Multicolor",,0.0000,rahul,rahul,"rahul rahul","Rahuls House Rajarmath, 4no ward of Bandarban Municipal Areua,Bandarban Sadar Po 4600, Bandarban, Bangladesh 01558639715",,"bandarban sadar",,,Bangladesh,,0.000,0.00,552.00,29.49,0.00,719.49,"rahul rahul
+Rahuls House Rajarmath, 4no ward of Bandarban Municipal Areua,Bandarban Sadar Po 4600, Bandarban, Bangladesh 01558639715 
+01558105666
+bandarban sadar
+Bangladesh","rahul rahul
+Rahuls House Rajarmath, 4no ward of Bandarban Municipal Areua,Bandarban Sadar Po 4600, Bandarban, Bangladesh 01558639715 
+01558105666
+bandarban sadar
+Bangladesh",01558105666,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",rahul,rahul,"Rahuls House Rajarmath, 4no ward of Bandarban Municipal Areua,Bandarban Sadar Po 4600, Bandarban, Bangladesh 01558639715 Rahuls House Rajarmath, 4no ward of Bandarban Municipal Areua,Bandarban Sadar Po 4600, Bandarban, Bangladesh 01558639715","bandarban sadar",,,Bangladesh,01558105666,rahul,rahul,"Rahuls House Rajarmath, 4no ward of Bandarban Municipal Areua,Bandarban Sadar Po 4600, Bandarban, Bangladesh 01558639715 Rahuls House Rajarmath, 4no ward of Bandarban Municipal Areua,Bandarban Sadar Po 4600, Bandarban, Bangladesh 01558639715","bandarban sadar",,,Bangladesh,01558105666
+11663139,GO#3069,2025-02-11T17:31:12,pending,"Cash on Delivery (COD)",unfulfilled,"Indian 4 Pieces Chicken Cotton 4 Hook Bra for Women - 40 / Multicolor",890.00,1,890.00,,,"40 / Multicolor",,0.0000,সারজিদ,আলম,"সারজিদ আলম","Atlapur Rd",,"Bholabo Union",,1720,Bangladesh,,0.000,0.00,712.00,80.00,0.00,970.00,"সারজিদ আলম
+Atlapur Rd 
+1776751572
+Bholabo Union
+1720
+Bangladesh","সারজিদ আলম
+Atlapur Rd 
+1776751572
+Bholabo Union
+1720
+Bangladesh",1776751572,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",সারজিদ,আলম,"Atlapur Rd Atlapur Rd","Bholabo Union",,1720,Bangladesh,1776751572,সারজিদ,আলম,"Atlapur Rd Atlapur Rd","Bholabo Union",,1720,Bangladesh,1776751572
+11663330,GO#3075,2025-02-11T18:26:05,pending,"Cash on Delivery (COD)",unfulfilled,"Chinese Posture Correction Front Cover Push-up Bra For Women - M / Multicolor",399.00,2,798.00,,,"M / Multicolor",,0.0000,Md,Rakib,"Md Rakib Bhuiyan","Akhaura Checkpost Rd",,Brahmanbaria,,3450,Bangladesh,mdrukibulhasan123@gmail.com,0.000,0.00,638.40,100.00,0.00,898.00,"Md Rakib Bhuiyan
+Akhaura Checkpost Rd 
+01822279655
+Brahmanbaria
+3450
+Bangladesh","Md Rakib Bhuiyan
+Akhaura Checkpost Rd 
+01822279655
+Brahmanbaria
+3450
+Bangladesh",01822279655,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Md Rakib",Bhuiyan,"Akhaura Checkpost Rd Akhaura Checkpost Rd",Brahmanbaria,,3450,Bangladesh,01822279655,"Md Rakib",Bhuiyan,"Akhaura Checkpost Rd Akhaura Checkpost Rd",Brahmanbaria,,3450,Bangladesh,01822279655
+11663550,GO#3080,2025-02-11T19:22:22,pending,"Cash on Delivery (COD)",unfulfilled,"Thai Premium 4 Pieces Combo Stylish Panty - L / Multicolor",340.00,1,340.00,,,"L / Multicolor",,0.0000,Md.,Omar,"Md. Omar Faruq মাস্টার","পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর",,"দিনাজপুর, পার্বতীপুর।",,5250,Bangladesh,faruktsc@gmail.com,0.000,0.00,272.00,58.12,0.00,398.12,"Md. Omar Faruq মাস্টার
+পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর 
+01793984977
+দিনাজপুর, পার্বতীপুর।
+5250
+Bangladesh","Md. Omar Faruq মাস্টার
+পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর 
+01793984977
+দিনাজপুর, পার্বতীপুর।
+5250
+Bangladesh",01793984977,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Md. Omar Faruq",মাস্টার,"পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর","দিনাজপুর, পার্বতীপুর।",,5250,Bangladesh,01793984977,"Md. Omar Faruq",মাস্টার,"পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর","দিনাজপুর, পার্বতীপুর।",,5250,Bangladesh,01793984977
+11663550,GO#3080,2025-02-11T19:22:22,pending,"Cash on Delivery (COD)",unfulfilled,"Printed Comfortable 3 Pieces Combo Cotton Panty For Women - XL / Multicolor",245.00,1,245.00,,,"XL / Multicolor",,0.0000,Md.,Omar,"Md. Omar Faruq মাস্টার","পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর",,"দিনাজপুর, পার্বতীপুর।",,5250,Bangladesh,faruktsc@gmail.com,0.000,0.00,196.00,41.88,0.00,286.88,"Md. Omar Faruq মাস্টার
+পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর 
+01793984977
+দিনাজপুর, পার্বতীপুর।
+5250
+Bangladesh","Md. Omar Faruq মাস্টার
+পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর 
+01793984977
+দিনাজপুর, পার্বতীপুর।
+5250
+Bangladesh",01793984977,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ","Md. Omar Faruq",মাস্টার,"পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর","দিনাজপুর, পার্বতীপুর।",,5250,Bangladesh,01793984977,"Md. Omar Faruq",মাস্টার,"পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর পার্বতীপুর সরকারি টেকনিক্যাল স্কুল ও কলেজ, হলদিবাড়ী, পার্বতীপুর, দিনাজপুর","দিনাজপুর, পার্বতীপুর।",,5250,Bangladesh,01793984977
+11664197,GO#3097,2025-02-11T21:56:18,pending,"Cash on Delivery (COD)",unfulfilled,"Dream Random Color Bikini Set For Girls & Women (1 Pcs) - 38",145.00,1,145.00,,,38,,0.0000,Mizanur,Rahman,"Mizanur Rahman","Parara Road, Town Hall, Barishal Sadar, Barishal",,Barishal,,,Bangladesh,mizannccb3@gmail.com,0.000,0.00,116.00,100.00,0.00,245.00,"Mizanur Rahman
+Parara Road, Town Hall, Barishal Sadar, Barishal 
+01516763630
+Barishal
+Bangladesh","Mizanur Rahman
+Parara Road, Town Hall, Barishal Sadar, Barishal 
+01516763630
+Barishal
+Bangladesh",01516763630,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Mizanur,Rahman,"Parara Road, Town Hall, Barishal Sadar, Barishal Parara Road, Town Hall, Barishal Sadar, Barishal",Barishal,,,Bangladesh,01516763630,Mizanur,Rahman,"Parara Road, Town Hall, Barishal Sadar, Barishal Parara Road, Town Hall, Barishal Sadar, Barishal",Barishal,,,Bangladesh,01516763630
+11664275,GO#3099,2025-02-11T22:10:41,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 40 / Multicolor",355.00,1,355.00,,,"40 / Multicolor",,0.0000,Rahima,Khatun,"Rahima Khatun","Jeshore sadar",,"Jeshore sadar",,,Bangladesh,,0.000,0.00,284.00,100.00,0.00,455.00,"Rahima Khatun
+Jeshore sadar 
+01601823514
+Jeshore sadar
+Bangladesh","Rahima Khatun
+Jeshore sadar 
+01601823514
+Jeshore sadar
+Bangladesh",01601823514,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Rahima,Khatun,"Jeshore sadar Jeshore sadar","Jeshore sadar",,,Bangladesh,01601823514,Rahima,Khatun,"Jeshore sadar Jeshore sadar","Jeshore sadar",,,Bangladesh,01601823514
+11664646,GO#3104,2025-02-11T23:22:00,pending,"Cash on Delivery (COD)",unfulfilled,"Transparent 4 Pieces Combo Net Bra For Women - 38 / Multicolor",355.00,1,355.00,,,"38 / Multicolor",,0.0000,Forhad,Ali,"Forhad Ali","বান্দেরবাজার ইনাতগঞ্জ নবিগঞ্জ হবিগঞ্জ",,Nabigonj,,,Bangladesh,aliporhad9@gmail.com,0.000,0.00,284.00,100.00,0.00,455.00,"Forhad Ali
+বান্দেরবাজার ইনাতগঞ্জ নবিগঞ্জ হবিগঞ্জ 
+01888094200
+Nabigonj
+Bangladesh","Forhad Ali
+বান্দেরবাজার ইনাতগঞ্জ নবিগঞ্জ হবিগঞ্জ 
+01888094200
+Nabigonj
+Bangladesh",01888094200,,,,,0.00,Admin,,,NULL,Admin," "," "," "," ",Forhad,Ali,"বান্দেরবাজার ইনাতগঞ্জ নবিগঞ্জ হবিগঞ্জ বান্দেরবাজার ইনাতগঞ্জ নবিগঞ্জ হবিগঞ্জ",Nabigonj,,,Bangladesh,01888094200,Forhad,Ali,"বান্দেরবাজার ইনাতগঞ্জ নবিগঞ্জ হবিগঞ্জ বান্দেরবাজার ইনাতগঞ্জ নবিগঞ্জ হবিগঞ্জ",Nabigonj,,,Bangladesh,01888094200
