@@ -2,7 +2,7 @@ import requests
 from db_handler import create_orders_table, insert_order_to_db
 
 SHOPIFY_STORE = "govalybd.myshopify.com"
-API_KEY = "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"
+API_KEY = ""
 API_VERSION = "2024-01"
 
 def fetch_and_store_orders():
