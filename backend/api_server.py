@@ -15,7 +15,7 @@ from fetch_orders import fetch_and_store_orders
 from RetrievingDetails import fetch_particular_orders
 
 # 🔹 Instead of loading from `.env`, hardcode your Shopify secret here
-SHOPIFY_SECRET = "732bc1dc5bcc31450e06d37c247bb72f72b9a475234a4a0559330e4918620064"
+SHOPIFY_SECRET = ""
 
 if not SHOPIFY_SECRET:
     print("🚨 ERROR: `SHOPIFY_SECRET` is missing! Set it in the file.")
